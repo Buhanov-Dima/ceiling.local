@@ -5,7 +5,10 @@ button, input {outline: none; font-family: "Open Sans", sans-serif; font-weight:
 a:link {text-decoration: none; font-family: "Open Sans", sans-serif; font-weight: 500;}
 button:focus, input:focus {outline: none;}
 
-
+@font-face{
+	font-family: 'Myriad Pro';
+	src: url('/fonts/MyriadPro-Regular.ttf');
+}
 .pdg-0 {padding: 0;}
 .wrap-b1 {margin-top: 7px;}
 .wrapper_phone_b1 {
@@ -27,6 +30,7 @@ button:focus, input:focus {outline: none;}
   font-size: 32px;
   font-weight: 700;
   line-height: 1;
+  position: relative;
 }
 #b1 {
 	background: url('/img/bg/bg-b1.jpg') no-repeat right top;
@@ -172,8 +176,38 @@ button:focus, input:focus {outline: none;}
     background-color: #ffffff;
     transform: rotate(15deg);
 }
-#b2 {overflow: hidden;}
+#b2, #b3 {overflow: hidden;}
 .b2-uslugi {margin-top: 15px;}
+#b3 {background-color: #d9eaf5; position: relative;}
+#b3::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 132px;
+    left: 0;
+    top: -67px;
+    background-color: #ffffff;
+    transform: rotate(-3deg);
+}
+#b3::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 132px;
+    left: 0;
+    bottom: -67px;
+    background-color: #ffffff;
+    transform: rotate(-3deg);
+}
+#b3 span::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    left: 0;
+    top: 335px;
+    background-color: rgb(75, 75, 75);
+}
 
 .b2-bg-l.bg-2 {max-width: 747px; background: url('/img/bg/b2-2-1.jpg') no-repeat left top;}
 .b2-bg-l.bg-3 {max-width: 689px; background: url('/img/bg/b2-3-1.jpg') no-repeat left top;}
@@ -187,3 +221,149 @@ button:focus, input:focus {outline: none;}
 .b2-bg-r.bg-5 {max-width: 669px; background: url('/img/bg/b2-5-1.jpg') no-repeat right top;}
 .b2-bg-r.bg-6 {max-width: 725px; background: url('/img/bg/b2-6-1.jpg') no-repeat right top;}
 
+.tab_box ul {display: flex; justify-content: space-between; list-style: none;}
+.tab_box a { padding: 11px 20px; font-size: 14px; font-family: "open sans",sans-serif; color: rgb(50, 50, 50);}
+.tab_box a:hover {background-color: #ffffff;}
+.tab_box a.active {background-color: #ffffff;}
+.tab_box {margin-top: 50px;}
+.wrap-b3 .standart-h::before {
+	content: '';
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    top: -110px;
+    left: 0;
+    background: url(/img/icons/hand.png) no-repeat center;
+    right: 0;
+    margin: auto;
+}
+.content_txt {
+	margin-top: 60px;
+    width: 45%;
+    position: relative;
+    z-index: 1;
+}
+.wrap-b3 {margin-top: 220px; margin-bottom: 130px;}
+.content_txt h5{
+  font-size: 18px;
+  color: rgb(32, 32, 32);
+  font-weight: bold;
+}
+.content_txt ul {list-style: circle; margin-top: 20px; max-width: 320px;}
+.content_txt li{
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(33, 33, 33);
+  line-height: 2.143;
+}
+.content_txt p{
+  font-size: 24px;
+  color: rgb(32, 32, 32);
+  font-weight: 700;
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+.content_img {
+    margin-top: 60px;
+    width: 65%;
+    background: url(/img/bg-img-r.jpg) no-repeat right -112px top;
+    background-size: cover;
+    overflow: hidden;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    right: 0;
+}
+.content_img::before {
+	content: '';
+    position: absolute;
+    width: 219px;
+    height: 678px;
+    left: -102px;
+    top: 0;
+    background-color: #d9eaf5;
+    transform: rotate(-20deg);
+}
+.tab_content {
+	display: flex;
+	justify-content: space-between;
+	position: relative;
+	overflow: hidden;
+}
+
+.wrap-b4 .standart-h::before {
+	content: '';
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    top: -110px;
+    left: 0;
+    background: url('/img/icons/colors.png') no-repeat center;
+    background-size: cover;
+    right: 0;
+    margin: auto;
+}
+.wrap-b4 {margin-top: 100px;}
+
+.slaider.owl-carousel .owl-stage {
+}
+
+.slaider.owl-carousel .owl-nav{
+	display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.slaider.owl-carousel .owl-nav button.owl-next span, .slaider.owl-carousel .owl-nav button.owl-prev span {display: none;}
+ .slaider.owl-carousel .owl-nav button.owl-next::before {
+	content: '';
+	display: block;
+	position: absolute;
+	left: -16px;
+	top: -45px;
+	width: 16px;
+	height: 16px;
+	border: 2px solid rgba(255, 255, 255, .4);
+	border-right: none;
+	border-top: none;
+	transform: rotate(45deg);
+}
+.slaider.owl-carousel .owl-nav button.owl-prev {
+    width: 100px;
+    height: 50px;
+    border: 50px solid transparent;
+    border-right: 67px solid #d9eaf5;
+    position: absolute;
+    right: -15px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.slaider.owl-carousel .owl-nav button.owl-next {
+    width: 100px;
+    height: 50px;
+    border: 50px solid transparent;
+    border-left: 67px solid #d9eaf5;
+    position: absolute;
+    left: -15px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.slaider.owl-carousel .owl-nav button.owl-prev::before {
+	content: '';
+	display: block;
+	position: absolute;
+	right: 0;
+	top: -45px;
+	width: 16px;
+	height: 16px;
+	border: 2px solid rgba(255, 255, 255, .4);
+	border-left: none;
+	border-bottom: none;
+	transform: rotate(45deg);
+}
+.slaider.owl-carousel {padding: 0 25px;}

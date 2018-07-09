@@ -182,6 +182,88 @@
 		</div>
 	</section>
 
+	<section id="b3">
+	<span></span>
+		<div class="container">
+			<div class="row">
+				<div class="col-xl-12">
+					<div class="wrap-b3">
+						<h3 class="standart-h text-center">ВИДЫ ПОТОЛКА</h3>
+						<div class="tab_box">
+							<ul>
+								<li><a href="#tab1">Тканевые</a></li>
+								<li><a href="#tab2" class="active">Матовые</a></li>
+								<li><a href="#tab3">Матовые фактурные</a></li>
+								<li><a href="#tab4">Сатиновые</a></li>
+								<li><a href="#tab5">Глянцевые</a></li>
+								<li><a href="#tab6">Металлик</a></li>
+								<li><a href="#tab7">Звёздное небо</a></li>
+								<li><a href="#tab8">С фотопечатью</a></li>
+							</ul>
+						</div>
+						<div class="tab_index">
+							<div class="tab_content" id="tab1">
+								<div class="content_txt">
+									<h5>ПВХ: Матовые потолки</h5>
+									<ul>
+										<li>Имеют мягкий расслабляющий вид</li>
+										<li>Не имеют отражения и отблесков</li>
+										<li>Не требутю специального ухода</li>
+										<li>Высокопрочны и устойчивы к влаге</li>
+										<li>Экологичные и негорючие</li>
+										<li>Плотные и износоустойчивые</li>
+										<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+									</ul>
+									
+									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+								</div>
+								<div class="content_img">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section id="b4">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xl-12">
+					<div class="wrap-b4">
+						<h3 class="standart-h text-center">КАТАЛОГ ЦВЕТОВ</h3>
+						<div class="wrap-slaider">
+							<div class="slaider owl-carousel">
+								<div>
+									<img src="/img/icons/cr.jpg" alt="">
+									<img src="/img/icons/cr.jpg" alt="">
+									<img src="/img/icons/cr.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/icons/cr.jpg" alt="">
+									<img src="/img/icons/cr.jpg" alt="">
+									<img src="/img/icons/cr.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/icons/cr.jpg" alt="">
+									<img src="/img/icons/cr.jpg" alt="">
+									<img src="/img/icons/cr.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/icons/cr.jpg" alt="">
+									<img src="/img/icons/cr.jpg" alt="">
+									<img src="/img/icons/cr.jpg" alt="">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
