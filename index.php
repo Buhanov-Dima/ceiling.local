@@ -351,6 +351,38 @@
 			</div>
 		</div>
 	</section>
+	<section class="">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col">
+					<div class="wrap-maps">
+						<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A1676cc86101a3a8b1dc260e49b097ed34e76288db0f4c2135db997e96143fed7&amp;width=100%25&amp;height=450&amp;lang=ru_RU&amp;scroll=true"></script>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<footer>
+		<div class="container-fluid">
+			<div class="row no-gutters">
+				<div class="col-xl-12">
+					<div class="wrap-foo">
+						<h3 class="standart-h">ВЫЕЗД ЗАМЕРЩИКА БЕСПЛАТНО</h3>
+						<form action="" class="foot-form">
+							<input type="text" name="" class="foot-name" placeholder="Ваше имя">
+							<input type="text" name="" class="foot-phone" placeholder="+7 (___) ___-__-__">
+							<button class="btn-main">ОСТАВИТЬ ЗАЯВКУ НА ЗАМЕР</button>
+						</form>
+					</div>
+					<div class="foot-txt text-center">
+						<p>Предложение не является публичной офертой. Заказывая услуги, Вы соглашаетесь на обработку своих персональных данных и принимаете условия политики конфиденциальности.<br>Оплатите заказ любым удобным для вас способом. Доступны способы оплаты: наличные, банковские карты, электронные деньги, переводы.<br>© 2011-2018 Потолки.Студио. Все права защищены.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
