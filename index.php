@@ -265,6 +265,92 @@
 		</div>
 	</section>
 
+
+	<section id="b5">
+		<div class="container">
+			<div class="row">
+				<div class="col-xl-12">
+					<div class="wrap-b5">
+						<h3 class="standart-h text-center">ПОЛНЫЙ ЦИКЛ РАБОТ</h3>
+						<p class="b5-p">* от 1 до 3 дней в зависиомсти от сложности проекта</p>
+						<div class="tab_box2">
+							<ul>
+								<li><a href="#tab1">1 <div><img src="/img/icons/b5-icon1.png" alt=""></div></a></li>
+								<li><a href="#tab2">2 <div><img src="/img/icons/b5-icon2.png" alt=""></div></a></li>
+								<li><a href="#tab3">3 <div><img src="/img/icons/b5-icon3.png" alt=""></div></a></li>
+								<li class="active"><a href="#tab4">4 <div><img src="/img/icons/b5-icon4.png" alt=""></div></a></li>
+								<li><a href="#tab5">5 <div><img src="/img/icons/b5-icon5.png" alt=""></div></a></li>
+							</ul>
+						</div>
+						<div class="tab_index-2">
+							<div class="tab_content-2" id="tab1">
+								<div class="content_txt-2">
+									<h5>4. Установка потолка</h5>
+									<p>В назначенный день и удобное для Вас время приедет бригада специалистов. Все сотрудники монтажа имеют допуск к работе с электрическим оборудованием.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="b6">
+		<div class="container">
+			<div class="row">
+				<div class="col-xl-12">
+					<div class="wrap-b6">
+						<h3 class="standart-h text-center">УЖЕ 7 ЛЕТ В РАБОТЕ, ВЕДЬ МЫ ОТВЕЧАЕМ ЗА КАЧЕСТВО!</h3>
+						<div class="dirik">
+							<img src="/img/serg.jpg" alt="">
+							<div class="dirik-txt">
+								<p>Технический директор</p>
+								<h5>Сергей Васильевич Сергиенко</h5>
+								<span>20 лет работы в области натяжных потолков<br> Высшее техническое образование</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="b7">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xl-12">
+					<div class="wrap-b7">
+						<h3 class="standart-h text-center">РЕАЛИЗОВАННЫЕ ПРОЕКТЫ И ВАШИ ОТЗЫВЫ</h3>
+						<div class="wrap-slaider-2">
+							<div class="slaider-2 owl-carousel">
+								<div class="slaid-1">
+									<div class="s-man">
+										<img src="/img/client.jpg" alt="">
+										<p>Анна Николаевна Корниенко</p>
+										<p>Хочу сказать большое спасибо за прекрасную работу. Потолок в комнате дочки  будто настоящий космос!<br> Все сделали очень быстро!!<br> Все было ЧИСТО!<br> Всем рекомендую.</p>
+									</div>
+									<div class="s-img">
+										<img src="/img/slaider/img-1.png" alt="">
+										<button class="btn-main">Я ТОЖЕ ТАК ХОЧУ!</button>
+									</div>
+								</div>
+								<div class="slaid-1">
+									<div class="s-man">
+										<img src="/img/client.jpg" alt="">
+										<p>Анна Николаевна Корниенко</p>
+										<p>Хочу сказать большое спасибо за прекрасную работу. Потолок в комнате дочки  будто настоящий космос!<br> Все сделали очень быстро!!<br> Все было ЧИСТО!<br> Всем рекомендую.</p>
+									</div>
+									<div class="s-img">
+										<img src="/img/slaider/img-1.png" alt="">
+										<button class="btn-main">Я ТОЖЕ ТАК ХОЧУ!</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>

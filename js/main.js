@@ -17,4 +17,10 @@ $(document).ready(function(){
             }
         }  
 	});
+
+    $(".slaider-2").owlCarousel({
+        loop:true,
+        margin: 10,
+        items: 1
+    });
 });
