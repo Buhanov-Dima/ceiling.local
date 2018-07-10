@@ -19,24 +19,81 @@
 <body>
 	
 <section id="b1">
-	<div class="container">
+	<div class="container-fluid pdg-0">
 		<div class="row">
 			<div class="col">
 				<div class="wrap-b1">
 					<div class="wrapper_phone_b1">
-						<div class="logo">
-							<img src="/img/logo.png" alt="">
-							<p>ПРОИЗВОДСТВО, ПРОДАЖА И МОНТАЖ НАТЯЖНЫХ ПОТОЛКОВ</p>
-						</div>
-						<div class="phone__callback">
-							<a href="#" class="phone">+ 7 (495) 021-72-73</a>
-							<button class="btn-popup">ОБРАТНЫЙ ЗВОНОК</button>
+						<div class="wrap-top-menu">
+							<div class="logo">
+								<img src="/img/logo.png" alt="">
+								<p>ПРОИЗВОДСТВО, ПРОДАЖА И МОНТАЖ НАТЯЖНЫХ ПОТОЛКОВ</p>
+							</div>
+							<div class="phone__callback">
+								<a href="#" class="phone">+ 7 (495) 021-72-73</a>
+								<button class="btn-popup">ОБРАТНЫЙ ЗВОНОК</button>
+							</div>
 						</div>
 					</div>
-					<div class="wrapper__main_b1">
-						<h3 class="standart-h">СКИДКА 5%</h3>
-						<p>при заключении договора в день замера</p>
-						<button class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
+					<div class="slaider-main owl-carousel">
+						<div class="wrapper__main_b1">
+							<div class="main-b1">
+								<h3 class="standart-h">СКИДКА 5%</h3>
+								<p>при заключении договора в день замера</p>
+								<button class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
+							</div>
+						</div>
+
+						<div class="wrapper__main_b1 sr-2">
+							<div class="main-b1 sl-1">
+								<h3 class="standart-h">БЕСПЛАТНАЯ<br><span>КОНСУЛЬТАЦИЯ СПЕЦИАЛИСТА</span></h3>
+								<form action="" class="slaid-form">
+									<input type="text" name="" class="nav-name" placeholder="Ваше имя">
+									<input type="text" name="" class="nav-phone" placeholder="+7 (___) ___-__-__">
+									<button class="btn-main">ОТПРАВИТЬ</button>
+								</form>
+							</div>
+						</div>
+
+						<div class="wrapper__main_b1 sr-3">
+							<div class="main-b1">
+								<h3 class="standart-h">ПЕНСИОНЕРАМ</h3>
+								<p>СКИДКА 10%</p>
+								<button class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
+							</div>
+						</div>
+
+						<div class="wrapper__main_b1 sr-4">
+							<div class="main-b1">
+								<h3 class="standart-h">СВЕТИЛЬНИКИ <br> <b>В ПОДАРОК</b></h3>
+								<p>при заказе от 15 кв. м<br>  мы дарим Вам светильники<br>  <span>НА ВСЮ ПЛОЩАДЬ</span><br>из расчета  2 светильника на 5 кв.м.</p>
+								<button class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
+							</div>
+						</div>
+
+						<div class="wrapper__main_b1 sr-5">
+							<div class="main-b1">
+								<h3 class="standart-h"><b>ПОТОЛКИ В ВАННОЙ И ТУАЛЕТЕ - БЕСПЛАТНО</b></h3>
+								<p>при заказе потолков во всю квартиру</p>
+								<button class="btn-main">ЗАКАЗАТЬ ПРОЕКТ</button>
+							</div>
+						</div>
+
+						<div class="wrapper__main_b1 sr-5">
+							<div class="main-b1">
+								<h3 class="standart-h"><b>СКИДКА 5%</b></h3>
+								<p>при заключении договора в день замера</p>
+								<button class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
+							</div>
+						</div>
+
+						<div class="wrapper__main_b1 sr-5">
+							<div class="main-b1">
+								<h3 class="standart-h"><b>СКИДКА 5%</b></h3>
+								<p>при обращении по рекомендации</p>
+								<button class="btn-main">ЗАКАЗАТЬ ПРОЕКТ</button>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -83,12 +140,12 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="top-menu">
-						<a href="#" class="active">О КОМПАНИИ</a>
-						<a href="#">ВИДЫ ПОТОЛКОВ</a>
-						<a href="#">КАТАЛОГ ЦВЕТОВ</a>
-						<a href="#">ЭТАПЫ РАБОТЫ</a>
-						<a href="#">ВАШИ ОТЗЫВЫ</a>
-						<a href="#">КОНТАКТЫ</a>
+						<a href="#b2" class="active">О КОМПАНИИ</a>
+						<a href="#b3">ВИДЫ ПОТОЛКОВ</a>
+						<a href="#b4">КАТАЛОГ ЦВЕТОВ</a>
+						<a href="#b5">ЭТАПЫ РАБОТЫ</a>
+						<a href="#b7">ВАШИ ОТЗЫВЫ</a>
+						<a href="#b8">КОНТАКТЫ</a>
 					</div>
 				</div>
 			</div>
@@ -191,18 +248,165 @@
 						<h3 class="standart-h text-center">ВИДЫ ПОТОЛКА</h3>
 						<div class="tab_box">
 							<ul>
-								<li><a href="#tab1">Тканевые</a></li>
-								<li><a href="#tab2" class="active">Матовые</a></li>
-								<li><a href="#tab3">Матовые фактурные</a></li>
-								<li><a href="#tab4">Сатиновые</a></li>
-								<li><a href="#tab5">Глянцевые</a></li>
-								<li><a href="#tab6">Металлик</a></li>
-								<li><a href="#tab7">Звёздное небо</a></li>
-								<li><a href="#tab8">С фотопечатью</a></li>
+								<li><a href="#tb1" class="active">Тканевые</a></li>
+								<li><a href="#tb2">Матовые</a></li>
+								<li><a href="#tb3">Матовые фактурные</a></li>
+								<li><a href="#tb4">Сатиновые</a></li>
+								<li><a href="#tb5">Глянцевые</a></li>
+								<li><a href="#tb6">Металлик</a></li>
+								<li><a href="#tb7">Звёздное небо</a></li>
+								<li><a href="#tb8">С фотопечатью</a></li>
 							</ul>
 						</div>
 						<div class="tab_index">
-							<div class="tab_content" id="tab1">
+							<div class="tab_content" id="tb1">
+								<div class="content_txt">
+									<h5>ПВХ: Матовые потолки</h5>
+									<ul>
+										<li>Имеют мягкий расслабляющий вид</li>
+										<li>Не имеют отражения и отблесков</li>
+										<li>Не требутю специального ухода</li>
+										<li>Высокопрочны и устойчивы к влаге</li>
+										<li>Экологичные и негорючие</li>
+										<li>Плотные и износоустойчивые</li>
+										<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+									</ul>
+									
+									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+								</div>
+								<div class="content_img">
+									
+								</div>
+							</div>
+
+							<div class="tab_content" id="tb2">
+								<div class="content_txt">
+									<h5>ПВХ: Матовые потолки</h5>
+									<ul>
+										<li>Имеют мягкий расслабляющий вид</li>
+										<li>Не имеют отражения и отблесков</li>
+										<li>Не требутю специального ухода</li>
+										<li>Высокопрочны и устойчивы к влаге</li>
+										<li>Экологичные и негорючие</li>
+										<li>Плотные и износоустойчивые</li>
+										<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+									</ul>
+									
+									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+								</div>
+								<div class="content_img">
+									
+								</div>
+							</div>
+
+							<div class="tab_content" id="tb3">
+								<div class="content_txt">
+									<h5>ПВХ: Матовые потолки</h5>
+									<ul>
+										<li>Имеют мягкий расслабляющий вид</li>
+										<li>Не имеют отражения и отблесков</li>
+										<li>Не требутю специального ухода</li>
+										<li>Высокопрочны и устойчивы к влаге</li>
+										<li>Экологичные и негорючие</li>
+										<li>Плотные и износоустойчивые</li>
+										<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+									</ul>
+									
+									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+								</div>
+								<div class="content_img">
+									
+								</div>
+							</div>
+
+							<div class="tab_content" id="tb4">
+								<div class="content_txt">
+									<h5>ПВХ: Матовые потолки</h5>
+									<ul>
+										<li>Имеют мягкий расслабляющий вид</li>
+										<li>Не имеют отражения и отблесков</li>
+										<li>Не требутю специального ухода</li>
+										<li>Высокопрочны и устойчивы к влаге</li>
+										<li>Экологичные и негорючие</li>
+										<li>Плотные и износоустойчивые</li>
+										<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+									</ul>
+									
+									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+								</div>
+								<div class="content_img">
+									
+								</div>
+							</div>
+
+							<div class="tab_content" id="tb5">
+								<div class="content_txt">
+									<h5>ПВХ: Матовые потолки</h5>
+									<ul>
+										<li>Имеют мягкий расслабляющий вид</li>
+										<li>Не имеют отражения и отблесков</li>
+										<li>Не требутю специального ухода</li>
+										<li>Высокопрочны и устойчивы к влаге</li>
+										<li>Экологичные и негорючие</li>
+										<li>Плотные и износоустойчивые</li>
+										<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+									</ul>
+									
+									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+								</div>
+								<div class="content_img">
+									
+								</div>
+							</div>
+
+							<div class="tab_content" id="tb6">
+								<div class="content_txt">
+									<h5>ПВХ: Матовые потолки</h5>
+									<ul>
+										<li>Имеют мягкий расслабляющий вид</li>
+										<li>Не имеют отражения и отблесков</li>
+										<li>Не требутю специального ухода</li>
+										<li>Высокопрочны и устойчивы к влаге</li>
+										<li>Экологичные и негорючие</li>
+										<li>Плотные и износоустойчивые</li>
+										<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+									</ul>
+									
+									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+								</div>
+								<div class="content_img">
+									
+								</div>
+							</div>
+
+							<div class="tab_content" id="tb7">
+								<div class="content_txt">
+									<h5>ПВХ: Матовые потолки</h5>
+									<ul>
+										<li>Имеют мягкий расслабляющий вид</li>
+										<li>Не имеют отражения и отблесков</li>
+										<li>Не требутю специального ухода</li>
+										<li>Высокопрочны и устойчивы к влаге</li>
+										<li>Экологичные и негорючие</li>
+										<li>Плотные и износоустойчивые</li>
+										<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+									</ul>
+									
+									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+								</div>
+								<div class="content_img">
+									
+								</div>
+							</div>
+
+							<div class="tab_content" id="tb8">
 								<div class="content_txt">
 									<h5>ПВХ: Матовые потолки</h5>
 									<ul>
@@ -275,18 +479,42 @@
 						<p class="b5-p">* от 1 до 3 дней в зависиомсти от сложности проекта</p>
 						<div class="tab_box2">
 							<ul>
-								<li><a href="#tab1">1 <div><img src="/img/icons/b5-icon1.png" alt=""></div></a></li>
+								<li class="b5-bg-1"><a href="#tab1">1 <div><img src="/img/icons/b5-icon1.png" alt=""></div></a></li>
 								<li><a href="#tab2">2 <div><img src="/img/icons/b5-icon2.png" alt=""></div></a></li>
 								<li><a href="#tab3">3 <div><img src="/img/icons/b5-icon3.png" alt=""></div></a></li>
-								<li class="active"><a href="#tab4">4 <div><img src="/img/icons/b5-icon4.png" alt=""></div></a></li>
+								<li><a href="#tab4">4 <div><img src="/img/icons/b5-icon4.png" alt=""></div></a></li>
 								<li><a href="#tab5">5 <div><img src="/img/icons/b5-icon5.png" alt=""></div></a></li>
 							</ul>
 						</div>
 						<div class="tab_index-2">
 							<div class="tab_content-2" id="tab1">
 								<div class="content_txt-2">
+									<h5>1. Ваша заявка</h5>
+									<p>Оставьте заявку на нашем сайте или по телефону + 7 (495) 152 88 99 <br>на бесплатный выезд замерщика</p>
+								</div>
+							</div>
+							<div class="tab_content-2" id="tab2">
+								<div class="content_txt-2">
+									<h5>2. Выезд на замеры <br>(по всей Москве и области в любое удобное для Вас время)</h5>
+									<p>К Вам приедет профессиональный инженер с образцами наших материалов. На месте специалист предложит Вам проектные решения исходя из ваших желаний и технических возможностей..</p>
+								</div>
+							</div>
+							<div class="tab_content-2" id="tab3">
+								<div class="content_txt-2">
+									<h5>3. Производство</h5>
+									<p>Имея собственные мощности ПОТОЛКИ.STUDIO изготовит материалы всего за 1 день.* 3 дня для особо сложных проектов.	</p>
+								</div>
+							</div>
+							<div class="tab_content-2" id="tab4">
+								<div class="content_txt-2">
 									<h5>4. Установка потолка</h5>
 									<p>В назначенный день и удобное для Вас время приедет бригада специалистов. Все сотрудники монтажа имеют допуск к работе с электрическим оборудованием.</p>
+								</div>
+							</div>
+							<div class="tab_content-2" id="tab5">
+								<div class="content_txt-2">
+									<h5>5. Ваш новый потолок и идеальная чистота</h5>
+									<p>При монтаже используются специальные перфораторы с вылесборником. Более того, наши специалисты всегда проверяют рабочую зону на чистоту. При необходимости проводится приборка специальным пылесосом.</p>
 								</div>
 							</div>
 						</div>
@@ -351,7 +579,7 @@
 			</div>
 		</div>
 	</section>
-	<section class="">
+	<section id="b8">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col">
@@ -383,6 +611,169 @@
 		</div>
 	</footer>
 	
+
+	<div class="card">
+		<div class="wrap-calc">
+			<h3 class="standart-h">РАСЧЕТ СТОИМОСТИ НАТЯЖНОГО ПОТОЛКА</h3>
+			<div class="tab_box3">
+				<ul>
+					<li><a href="#pot1" class="active">Тканевые</a></li>
+					<li><a href="#pot2">Матовые</a></li>
+					<li><a href="#pot3">Матовые фактурные</a></li>
+					<li><a href="#pot4">Сатиновые</a></li>
+					<li><a href="#pot5">Глянцевые</a></li>
+					<li><a href="#pot6">Металлик</a></li>
+					<li><a href="#pot7">Звёздное небо</a></li>
+					<li><a href="#pot8">С фотопечатью</a></li>
+				</ul>
+			</div>
+			<div class="tab_index">
+				<div class="tab_content3" id="pot1">
+					<div class="content_txt">
+						<h5>ПВХ: Матовые потолки</h5>
+						<ul>
+							<li>Имеют мягкий расслабляющий вид</li>
+							<li>Не имеют отражения и отблесков</li>
+							<li>Не требутю специального ухода</li>
+							<li>Высокопрочны и устойчивы к влаге</li>
+							<li>Экологичные и негорючие</li>
+							<li>Плотные и износоустойчивые</li>
+							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+						</ul>
+						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					</div>
+					<div class="content_img"></div>
+				</div>
+
+				<div class="tab_content3" id="pot2">
+					<div class="content_txt">
+						<h5>ПВХ: Матовые потолки</h5>
+						<ul>
+							<li>Имеют мягкий расслабляющий вид</li>
+							<li>Не имеют отражения и отблесков</li>
+							<li>Не требутю специального ухода</li>
+							<li>Высокопрочны и устойчивы к влаге</li>
+							<li>Экологичные и негорючие</li>
+							<li>Плотные и износоустойчивые</li>
+							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+						</ul>
+						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					</div>
+					<div class="content_img"></div>
+				</div>
+
+				<div class="tab_content3" id="pot3">
+					<div class="content_txt">
+						<h5>ПВХ: Матовые потолки</h5>
+						<ul>
+							<li>Имеют мягкий расслабляющий вид</li>
+							<li>Не имеют отражения и отблесков</li>
+							<li>Не требутю специального ухода</li>
+							<li>Высокопрочны и устойчивы к влаге</li>
+							<li>Экологичные и негорючие</li>
+							<li>Плотные и износоустойчивые</li>
+							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+						</ul>
+						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					</div>
+					<div class="content_img"></div>
+				</div>
+
+				<div class="tab_content3" id="pot4">
+					<div class="content_txt">
+						<h5>ПВХ: Матовые потолки</h5>
+						<ul>
+							<li>Имеют мягкий расслабляющий вид</li>
+							<li>Не имеют отражения и отблесков</li>
+							<li>Не требутю специального ухода</li>
+							<li>Высокопрочны и устойчивы к влаге</li>
+							<li>Экологичные и негорючие</li>
+							<li>Плотные и износоустойчивые</li>
+							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+						</ul>
+						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					</div>
+					<div class="content_img"></div>
+				</div>
+
+				<div class="tab_content3" id="pot5">
+					<div class="content_txt">
+						<h5>ПВХ: Матовые потолки</h5>
+						<ul>
+							<li>Имеют мягкий расслабляющий вид</li>
+							<li>Не имеют отражения и отблесков</li>
+							<li>Не требутю специального ухода</li>
+							<li>Высокопрочны и устойчивы к влаге</li>
+							<li>Экологичные и негорючие</li>
+							<li>Плотные и износоустойчивые</li>
+							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+						</ul>
+						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					</div>
+					<div class="content_img"></div>
+				</div>
+
+				<div class="tab_content3" id="pot6">
+					<div class="content_txt">
+						<h5>ПВХ: Матовые потолки</h5>
+						<ul>
+							<li>Имеют мягкий расслабляющий вид</li>
+							<li>Не имеют отражения и отблесков</li>
+							<li>Не требутю специального ухода</li>
+							<li>Высокопрочны и устойчивы к влаге</li>
+							<li>Экологичные и негорючие</li>
+							<li>Плотные и износоустойчивые</li>
+							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+						</ul>
+						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					</div>
+					<div class="content_img"></div>
+				</div>
+
+				<div class="tab_content3" id="pot7">
+					<div class="content_txt">
+						<h5>ПВХ: Матовые потолки</h5>
+						<ul>
+							<li>Имеют мягкий расслабляющий вид</li>
+							<li>Не имеют отражения и отблесков</li>
+							<li>Не требутю специального ухода</li>
+							<li>Высокопрочны и устойчивы к влаге</li>
+							<li>Экологичные и негорючие</li>
+							<li>Плотные и износоустойчивые</li>
+							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+						</ul>
+						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					</div>
+					<div class="content_img"></div>
+				</div>
+				<div class="tab_content3" id="pot8">
+					<div class="content_txt">
+						<h5>ПВХ: Матовые потолки</h5>
+						<ul>
+							<li>Имеют мягкий расслабляющий вид</li>
+							<li>Не имеют отражения и отблесков</li>
+							<li>Не требутю специального ухода</li>
+							<li>Высокопрочны и устойчивы к влаге</li>
+							<li>Экологичные и негорючие</li>
+							<li>Плотные и износоустойчивые</li>
+							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
+							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
+						</ul>
+						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					</div>
+					<div class="content_img"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
