@@ -79,7 +79,7 @@
 							</div>
 						</div>
 
-						<div class="wrapper__main_b1 sr-5">
+						<div class="wrapper__main_b1 sr-6">
 							<div class="main-b1">
 								<h3 class="standart-h"><b>СКИДКА 5%</b></h3>
 								<p>при заключении договора в день замера</p>
@@ -87,7 +87,7 @@
 							</div>
 						</div>
 
-						<div class="wrapper__main_b1 sr-5">
+						<div class="wrapper__main_b1 sr-7">
 							<div class="main-b1">
 								<h3 class="standart-h"><b>СКИДКА 5%</b></h3>
 								<p>при обращении по рекомендации</p>
@@ -610,11 +610,11 @@
 			</div>
 		</div>
 	</footer>
-	
+	<a data-fancybox data-src="#card" href="javascript:;" class="btn btn-primary">Open demo</a>
 
-	<div class="card">
+	<div class="card" id="card">
 		<div class="wrap-calc">
-			<h3 class="standart-h">РАСЧЕТ СТОИМОСТИ НАТЯЖНОГО ПОТОЛКА</h3>
+			<h3 class="standart-h text-center">РАСЧЕТ СТОИМОСТИ НАТЯЖНОГО ПОТОЛКА</h3>
 			<div class="tab_box3">
 				<ul>
 					<li><a href="#pot1" class="active">Тканевые</a></li>
@@ -629,147 +629,237 @@
 			</div>
 			<div class="tab_index">
 				<div class="tab_content3" id="pot1">
-					<div class="content_txt">
-						<h5>ПВХ: Матовые потолки</h5>
-						<ul>
-							<li>Имеют мягкий расслабляющий вид</li>
-							<li>Не имеют отражения и отблесков</li>
-							<li>Не требутю специального ухода</li>
-							<li>Высокопрочны и устойчивы к влаге</li>
-							<li>Экологичные и негорючие</li>
-							<li>Плотные и износоустойчивые</li>
-							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
-							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
-						</ul>
-						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					<div class="content_txt3">
+						<form action="" class="f-calc">
+							<span>5</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<button class="btn-main">ПОДРОБНЕЕ</button>
+						</form>
+						<div class="wrap-calc-it">
+							<div class="content-img">
+								<img src="/img/offer_1.jpg" alt="">
+							</div>
+							<div class="calc-right">
+								<div class="calc-txt">
+									<h5>Кухня</h5>
+									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p class="wr-txt">8,9 м.кв.</p></div>
+									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
+									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
+									<div><p>Обработка угла</p><p>6 шт.</p></div>
+									<div><p>Платформа для люстры</p><p>1шт.</p></div>
+								</div>
+								<div class="d-flex justify-content-between">
+									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<div class="range-price">6760 руб.</div>
+								</div>
+							</div>
+						</div>
 					</div>
-					<div class="content_img"></div>
 				</div>
 
 				<div class="tab_content3" id="pot2">
-					<div class="content_txt">
-						<h5>ПВХ: Матовые потолки</h5>
-						<ul>
-							<li>Имеют мягкий расслабляющий вид</li>
-							<li>Не имеют отражения и отблесков</li>
-							<li>Не требутю специального ухода</li>
-							<li>Высокопрочны и устойчивы к влаге</li>
-							<li>Экологичные и негорючие</li>
-							<li>Плотные и износоустойчивые</li>
-							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
-							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
-						</ul>
-						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					<div class="content_txt3">
+						<form action="" class="f-calc">
+							<span>5</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<button class="btn-main">ПОДРОБНЕЕ</button>
+						</form>
+						<div class="wrap-calc-it">
+							<div class="content-img">
+								<img src="/img/offer_1.jpg" alt="">
+							</div>
+							<div class="calc-right">
+								<div class="calc-txt">
+									<h5>Кухня</h5>
+									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
+									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
+									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
+									<div><p>Обработка угла</p><p>6 шт.</p></div>
+									<div><p>Платформа для люстры</p><p>1шт.</p></div>
+								</div>
+								<div class="d-flex justify-content-between">
+									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<div class="range-price">6760 руб.</div>
+								</div>
+							</div>
+						</div>
 					</div>
-					<div class="content_img"></div>
 				</div>
 
 				<div class="tab_content3" id="pot3">
-					<div class="content_txt">
-						<h5>ПВХ: Матовые потолки</h5>
-						<ul>
-							<li>Имеют мягкий расслабляющий вид</li>
-							<li>Не имеют отражения и отблесков</li>
-							<li>Не требутю специального ухода</li>
-							<li>Высокопрочны и устойчивы к влаге</li>
-							<li>Экологичные и негорючие</li>
-							<li>Плотные и износоустойчивые</li>
-							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
-							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
-						</ul>
-						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					<div class="content_txt3">
+						<form action="" class="f-calc">
+							<span>5</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<button class="btn-main">ПОДРОБНЕЕ</button>
+						</form>
+						<div class="wrap-calc-it">
+							<div class="content-img">
+								<img src="/img/offer_1.jpg" alt="">
+							</div>
+							<div class="calc-right">
+								<div class="calc-txt">
+									<h5>Кухня</h5>
+									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
+									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
+									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
+									<div><p>Обработка угла</p><p>6 шт.</p></div>
+									<div><p>Платформа для люстры</p><p>1шт.</p></div>
+								</div>
+								<div class="d-flex justify-content-between">
+									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<div class="range-price">6760 руб.</div>
+								</div>
+							</div>
+						</div>
 					</div>
-					<div class="content_img"></div>
 				</div>
 
 				<div class="tab_content3" id="pot4">
-					<div class="content_txt">
-						<h5>ПВХ: Матовые потолки</h5>
-						<ul>
-							<li>Имеют мягкий расслабляющий вид</li>
-							<li>Не имеют отражения и отблесков</li>
-							<li>Не требутю специального ухода</li>
-							<li>Высокопрочны и устойчивы к влаге</li>
-							<li>Экологичные и негорючие</li>
-							<li>Плотные и износоустойчивые</li>
-							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
-							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
-						</ul>
-						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					<div class="content_txt3">
+						<form action="" class="f-calc">
+							<span>5</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<button class="btn-main">ПОДРОБНЕЕ</button>
+						</form>
+						<div class="wrap-calc-it">
+							<div class="content-img">
+								<img src="/img/offer_1.jpg" alt="">
+							</div>
+							<div class="calc-right">
+								<div class="calc-txt">
+									<h5>Кухня</h5>
+									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
+									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
+									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
+									<div><p>Обработка угла</p><p>6 шт.</p></div>
+									<div><p>Платформа для люстры</p><p>1шт.</p></div>
+								</div>
+								<div class="d-flex justify-content-between">
+									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<div class="range-price">6760 руб.</div>
+								</div>
+							</div>
+						</div>
 					</div>
-					<div class="content_img"></div>
 				</div>
 
 				<div class="tab_content3" id="pot5">
-					<div class="content_txt">
-						<h5>ПВХ: Матовые потолки</h5>
-						<ul>
-							<li>Имеют мягкий расслабляющий вид</li>
-							<li>Не имеют отражения и отблесков</li>
-							<li>Не требутю специального ухода</li>
-							<li>Высокопрочны и устойчивы к влаге</li>
-							<li>Экологичные и негорючие</li>
-							<li>Плотные и износоустойчивые</li>
-							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
-							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
-						</ul>
-						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					<div class="content_txt3">
+						<form action="" class="f-calc">
+							<span>5</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<button class="btn-main">ПОДРОБНЕЕ</button>
+						</form>
+						<div class="wrap-calc-it">
+							<div class="content-img">
+								<img src="/img/offer_1.jpg" alt="">
+							</div>
+							<div class="calc-right">
+								<div class="calc-txt">
+									<h5>Кухня</h5>
+									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
+									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
+									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
+									<div><p>Обработка угла</p><p>6 шт.</p></div>
+									<div><p>Платформа для люстры</p><p>1шт.</p></div>
+								</div>
+								<div class="d-flex justify-content-between">
+									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<div class="range-price">6760 руб.</div>
+								</div>
+							</div>
+						</div>
 					</div>
-					<div class="content_img"></div>
 				</div>
 
 				<div class="tab_content3" id="pot6">
-					<div class="content_txt">
-						<h5>ПВХ: Матовые потолки</h5>
-						<ul>
-							<li>Имеют мягкий расслабляющий вид</li>
-							<li>Не имеют отражения и отблесков</li>
-							<li>Не требутю специального ухода</li>
-							<li>Высокопрочны и устойчивы к влаге</li>
-							<li>Экологичные и негорючие</li>
-							<li>Плотные и износоустойчивые</li>
-							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
-							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
-						</ul>
-						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					<div class="content_txt3">
+						<form action="" class="f-calc">
+							<span>5</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<button class="btn-main">ПОДРОБНЕЕ</button>
+						</form>
+						<div class="wrap-calc-it">
+							<div class="content-img">
+								<img src="/img/offer_1.jpg" alt="">
+							</div>
+							<div class="calc-right">
+								<div class="calc-txt">
+									<h5>Кухня</h5>
+									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
+									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
+									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
+									<div><p>Обработка угла</p><p>6 шт.</p></div>
+									<div><p>Платформа для люстры</p><p>1шт.</p></div>
+								</div>
+								<div class="d-flex justify-content-between">
+									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<div class="range-price">6760 руб.</div>
+								</div>
+							</div>
+						</div>
 					</div>
-					<div class="content_img"></div>
 				</div>
 
 				<div class="tab_content3" id="pot7">
-					<div class="content_txt">
-						<h5>ПВХ: Матовые потолки</h5>
-						<ul>
-							<li>Имеют мягкий расслабляющий вид</li>
-							<li>Не имеют отражения и отблесков</li>
-							<li>Не требутю специального ухода</li>
-							<li>Высокопрочны и устойчивы к влаге</li>
-							<li>Экологичные и негорючие</li>
-							<li>Плотные и износоустойчивые</li>
-							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
-							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
-						</ul>
-						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					<div class="content_txt3">
+						<form action="" class="f-calc">
+							<span>5</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<button class="btn-main">ПОДРОБНЕЕ</button>
+						</form>
+						<div class="wrap-calc-it">
+							<div class="content-img">
+								<img src="/img/offer_1.jpg" alt="">
+							</div>
+							<div class="calc-right">
+								<div class="calc-txt">
+									<h5>Кухня</h5>
+									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
+									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
+									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
+									<div><p>Обработка угла</p><p>6 шт.</p></div>
+									<div><p>Платформа для люстры</p><p>1шт.</p></div>
+								</div>
+								<div class="d-flex justify-content-between">
+									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<div class="range-price">6760 руб.</div>
+								</div>
+							</div>
+						</div>
 					</div>
-					<div class="content_img"></div>
 				</div>
+
 				<div class="tab_content3" id="pot8">
-					<div class="content_txt">
-						<h5>ПВХ: Матовые потолки</h5>
-						<ul>
-							<li>Имеют мягкий расслабляющий вид</li>
-							<li>Не имеют отражения и отблесков</li>
-							<li>Не требутю специального ухода</li>
-							<li>Высокопрочны и устойчивы к влаге</li>
-							<li>Экологичные и негорючие</li>
-							<li>Плотные и износоустойчивые</li>
-							<li>Отлично подойдтут для гостинных, спален, ванных комнат и др.</li>
-							<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
-						</ul>
-						<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+					<div class="content_txt3">
+						<form action="" class="f-calc">
+							<span>5</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<button class="btn-main">ПОДРОБНЕЕ</button>
+						</form>
+						<div class="wrap-calc-it">
+							<div class="content-img">
+								<img src="/img/offer_1.jpg" alt="">
+							</div>
+							<div class="calc-right">
+								<div class="calc-txt">
+									<h5>Кухня</h5>
+									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
+									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
+									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
+									<div><p>Обработка угла</p><p>6 шт.</p></div>
+									<div><p>Платформа для люстры</p><p>1шт.</p></div>
+								</div>
+								<div class="d-flex justify-content-between">
+									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<div class="range-price">6760 руб.</div>
+								</div>
+							</div>
+						</div>
 					</div>
-					<div class="content_img"></div>
 				</div>
+				
 			</div>
 		</div>
 	</div>
