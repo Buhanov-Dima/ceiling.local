@@ -391,8 +391,15 @@ input {cursor: text;}
 }
 .slaider.owl-carousel {padding: 0 15px;}
 .wrap-slaider {margin-top: 45px;}
-.slaider.owl-carousel .owl-item img {max-width: 100px; max-height: 100px; margin: 15px auto;}
+.slaider.owl-carousel .owl-item img {width: 100px; height: 100px; margin: 15px auto; position: relative;}
 
+/*
+.slaider.owl-carousel .owl-item img:hover {
+  position: absolute;
+  width: 350px;
+  height: auto;
+  z-index: 20;
+}*/
 #b5 {
   background: url('/img/bg/bg-b5.jpg') no-repeat left top;
   background-size: cover;
@@ -548,9 +555,7 @@ input {cursor: text;}
 .wrap-calc {
   
 }
-.content-img img{
-  width: 100%;
-}
+
 .wrap-calc .standart-h {
   margin: 20px; 
 }

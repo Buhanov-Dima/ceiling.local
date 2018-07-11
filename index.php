@@ -33,7 +33,7 @@
 							</div>
 							<div class="phone__callback">
 								<a href="#" class="phone">+ 7 (495) 021-72-73</a>
-								<button class="btn-popup">ОБРАТНЫЙ ЗВОНОК</button>
+								<button data-fancybox data-src="#popup" href="javascript:;" class="btn-popup">ОБРАТНЫЙ ЗВОНОК</button>
 							</div>
 						</div>
 					</div>
@@ -446,25 +446,51 @@
 						<div class="wrap-slaider">
 							<div class="slaider owl-carousel">
 								<div>
-									<img src="/img/icons/cr.jpg" alt="">
-									<img src="/img/icons/cr.jpg" alt="">
-									<img src="/img/icons/cr.jpg" alt="">
+									<img src="/img/icons/1.jpg" alt="">
+									<img src="/img/icons/2.jpg" alt="">
+									<img src="/img/icons/3.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/cr.jpg" alt="">
-									<img src="/img/icons/cr.jpg" alt="">
-									<img src="/img/icons/cr.jpg" alt="">
+									<img src="/img/icons/4.jpg" alt="">
+									<img src="/img/icons/5.jpg" alt="">
+									<img src="/img/icons/6.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/cr.jpg" alt="">
-									<img src="/img/icons/cr.jpg" alt="">
-									<img src="/img/icons/cr.jpg" alt="">
+									<img src="/img/icons/7.jpg" alt="">
+									<img src="/img/icons/8.jpg" alt="">
+									<img src="/img/icons/9.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/cr.jpg" alt="">
-									<img src="/img/icons/cr.jpg" alt="">
-									<img src="/img/icons/cr.jpg" alt="">
+									<img src="/img/icons/10.jpg" alt="">
+									<img src="/img/icons/11.jpg" alt="">
+									<img src="/img/icons/12.jpg" alt="">
 								</div>
+								<div>
+									<img src="/img/icons/13.jpg" alt="">
+									<img src="/img/icons/14.jpg" alt="">
+									<img src="/img/icons/15.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/icons/16.jpg" alt="">
+									<img src="/img/icons/17.jpg" alt="">
+									<img src="/img/icons/18.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/icons/19.jpg" alt="">
+									<img src="/img/icons/20.jpg" alt="">
+									<img src="/img/icons/21.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/icons/22.jpg" alt="">
+									<img src="/img/icons/23.jpg" alt="">
+									<img src="/img/icons/24.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/icons/25.jpg" alt="">
+									<img src="/img/icons/26.jpg" alt="">
+									<img src="/img/icons/27.jpg" alt="">
+								</div>
+
 							</div>
 						</div>
 					</div>
@@ -607,7 +633,7 @@
 						<form action="" class="foot-form">
 							<input type="text" name="" class="foot-name" placeholder="Ваше имя">
 							<input type="text" name="" class="foot-phone" placeholder="+7 (___) ___-__-__">
-							<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ОСТАВИТЬ ЗАЯВКУ НА ЗАМЕР</button>
+							<button class="btn-main">ОСТАВИТЬ ЗАЯВКУ НА ЗАМЕР</button>
 						</form>
 					</div>
 					<div class="foot-txt text-center">
