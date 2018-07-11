@@ -57,10 +57,33 @@ $(document).ready(function(){
         $(tab).fadeIn(400);
     });
 
-    $('a[href^="#"]').click(function(){
-        var el = $(this).attr('href');
-        $('html,body').animate({
-            scrollTop: $(el).offset().top-130}, 500);
-        return false;
+    $(".top-menu").on("click","a", function (event) {
+        event.preventDefault();
+        var id  = $(this).attr('href'),
+            top = $(id).offset().top;
+        $('body,html').animate({scrollTop: top}, 900);
     });
+
+
+    wow = new WOW({
+        boxClass:     'wow',      // default
+        animateClass: 'animated', // default
+        offset:       40,          // default
+        mobile:       false,       // default
+        live:         true        // default
+      });
+      wow.init();
+
+
 });
+
+    $(window).scroll(function(){
+    if ($(window).scrollTop() > 665) {
+        $('.top-menu').addClass('fixed');
+    }
+    else {
+        $('.top-menu').removeClass('fixed');
+    };
+});
+
+

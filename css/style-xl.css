@@ -1,0 +1,8 @@
+.foot-form {flex-wrap: wrap; justify-content: flex-end; flex-direction: column;} .foot-name, .foot-phone {margin: 5px 0; padding-left: 20px; border: 1px solid #dddddd; border-radius: 2px;}
+.foot-form .btn-main {width: 245px;} .wrap-foo {padding: 5px 0 10px;} .phone__callback .btn-popup {margin-left: 10px;} .fx-cnt-between-center, .phone__callback, .logo {width: 50%;}
+.phone__callback a {font-size: 18px;} .wrap-top-menu {padding: 5px 20px;} .wrapper__main_b1 {padding: 0 50px;} .b2-bg-r {display: none;}
+.b2-bg-l {width: 100%;} .uslugi-txt {position: absolute; left: 30px; top: 10px;} .b2-uslugi {position: relative;}
+.b2-bg-l.bg-2 {width: 93%;} .b2-bg-l.bg-3 {width: 85%;} .b2-bg-l.bg-4 {width: 78%;} .b2-bg-l.bg-5 {width: 69%;} .b2-bg-l.bg-6 {width: 61%;}
+.white-txt h5, .white-txt p{color: #ffffff;} #b3 span::after {display: none;} .tab_box ul {flex-wrap: wrap; justify-content: space-around;} .tab_box li {margin: 10px 0;}
+.tab_box2 {padding: 0;} .slaid-1 {flex-direction: column;} .s-man {max-width: none; display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; margin-bottom: 10px;} .s-man img {max-width: 200px;}
+.s-man div {width: 70%;}.wrap-slaider-2 {right: 0;} .slaider-2.owl-carousel .owl-nav button.owl-prev {left: 30px; margin-top: 70px;} .slaider-2.owl-carousel .owl-nav button.owl-next {right: 30px; margin-top: 70px;}

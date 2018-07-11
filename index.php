@@ -10,7 +10,9 @@
 	<link rel="stylesheet" href="/css/owl-carousel/owl.theme.default.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&amp;subset=cyrillic-ext" rel="stylesheet">
+	<link rel="stylesheet" href="css/animate.min.css">
 	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="css/style-xxl.css" media="only screen and (max-width:1500px)">
 	<link rel="stylesheet" href="css/style-lg.css" media="only screen and (max-width:1200px)">
 	<link rel="stylesheet" href="css/style-xl.css" media="only screen and (max-width:992px)">
 	<link rel="stylesheet" href="css/style-md.css" media="only screen and (max-width:768px)">
@@ -40,7 +42,7 @@
 							<div class="main-b1">
 								<h3 class="standart-h">СКИДКА 5%</h3>
 								<p>при заключении договора в день замера</p>
-								<button class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
+								<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
 							</div>
 						</div>
 
@@ -59,7 +61,7 @@
 							<div class="main-b1">
 								<h3 class="standart-h">ПЕНСИОНЕРАМ</h3>
 								<p>СКИДКА 10%</p>
-								<button class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
+								<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
 							</div>
 						</div>
 
@@ -67,7 +69,7 @@
 							<div class="main-b1">
 								<h3 class="standart-h">СВЕТИЛЬНИКИ <br> <b>В ПОДАРОК</b></h3>
 								<p>при заказе от 15 кв. м<br>  мы дарим Вам светильники<br>  <span>НА ВСЮ ПЛОЩАДЬ</span><br>из расчета  2 светильника на 5 кв.м.</p>
-								<button class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
+								<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
 							</div>
 						</div>
 
@@ -75,15 +77,18 @@
 							<div class="main-b1">
 								<h3 class="standart-h"><b>ПОТОЛКИ В ВАННОЙ И ТУАЛЕТЕ - БЕСПЛАТНО</b></h3>
 								<p>при заказе потолков во всю квартиру</p>
-								<button class="btn-main">ЗАКАЗАТЬ ПРОЕКТ</button>
+								<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ ПРОЕКТ</button>
 							</div>
 						</div>
 
 						<div class="wrapper__main_b1 sr-6">
 							<div class="main-b1">
-								<h3 class="standart-h"><b>СКИДКА 5%</b></h3>
-								<p>при заключении договора в день замера</p>
-								<button class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
+								<h3 class="standart-h"><b>СКИДКА 5%</b> <br><span>НА ЗАМЕР</span></h3>
+								<form action="" class="slaid-form">
+									<input type="text" name="" class="nav-name" placeholder="Ваше имя">
+									<input type="text" name="" class="nav-phone" placeholder="+7 (___) ___-__-__">
+									<button class="btn-main">ОТПРАВИТЬ</button>
+								</form>
 							</div>
 						</div>
 
@@ -91,7 +96,7 @@
 							<div class="main-b1">
 								<h3 class="standart-h"><b>СКИДКА 5%</b></h3>
 								<p>при обращении по рекомендации</p>
-								<button class="btn-main">ЗАКАЗАТЬ ПРОЕКТ</button>
+								<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ ПРОЕКТ</button>
 							</div>
 						</div>
 					</div>
@@ -157,81 +162,81 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b2">
-						<h3 class="standart-h text-center">ПОТОЛКИ<span>.STUDIO</span></h3>
+						<h3 class="standart-h text-center ">ПОТОЛКИ<span>.STUDIO</span></h3>
 						<div class="b2-uslugi">
-							<div class="b2-bg-l">
+							<div class="b2-bg-l wow slideInLeft animated">
 								
 							</div>
-							<div class="uslugi-txt">
+							<div class="uslugi-txt wow bounceInLeft">
 								<h5>Работа с дизайн-проектами любой сложности</h5>
 								<p>Благодаря опыту и высокой квалификации нашей команды</p>
 							</div>
-							<div class="b2-bg-r">
+							<div class="b2-bg-r wow slideInRight animated">
 								
 							</div>
 						</div>
 						<div class="b2-uslugi">
-							<div class="b2-bg-l bg-2">
+							<div class="b2-bg-l bg-2 wow slideInLeft animated">
 								
 							</div>
 							<div class="uslugi-txt">
 								<h5>Собственное производство</h5>
 								<p>Позволяет в кратчайшие сроки произвести любой материал</p>
 							</div>
-							<div class="b2-bg-r bg-2">
+							<div class="b2-bg-r bg-2 wow slideInRight animated">
 								
 							</div>
 						</div>
 						<div class="b2-uslugi">
-							<div class="b2-bg-l bg-3">
+							<div class="b2-bg-l bg-3 wow slideInLeft animated">
 								
 							</div>
-							<div class="uslugi-txt">
+							<div class="uslugi-txt white-txt">
 								<h5>15 лет гарантия на материалы</h5>
 								<p>Производство соответствует мировым стандартам качества</p>
 							</div>
-							<div class="b2-bg-r bg-3">
+							<div class="b2-bg-r bg-3 wow slideInRight animated">
 								
 							</div>
 						</div>
 						<div class="b2-uslugi">
-							<div class="b2-bg-l bg-4">
+							<div class="b2-bg-l bg-4 wow slideInLeft animated">
 								
 							</div>
 							<div class="uslugi-txt">
 								<h5>2 года гарантия на монтаж</h5>
 								<p>Ведь к работе допускаются только квалифицированные специалисты</p>
 							</div>
-							<div class="b2-bg-r bg-4">
+							<div class="b2-bg-r bg-4 wow slideInRight animated">
 								
 							</div>
 						</div>
 						<div class="b2-uslugi">
-							<div class="b2-bg-l bg-5">
+							<div class="b2-bg-l bg-5 wow slideInLeft animated">
 								
 							</div>
 							<div class="uslugi-txt">
 								<h5>Низкие цены на материалы</h5>
 								<p>Все потому, что Вы не переплачиваете за работу диллеров и посредников</p>
 							</div>
-							<div class="b2-bg-r bg-5">
+							<div class="b2-bg-r bg-5 wow slideInRight animated">
 								
 							</div>
 						</div>
 						<div class="b2-uslugi">
-							<div class="b2-bg-l bg-6">
+							<div class="b2-bg-l bg-6 wow slideInLeft animated">
 								
 							</div>
 							<div class="uslugi-txt">
 								<h5>Монтаж "Без пыли"</h5>
 								<p>При монтаже используются перфораторы с пылесборником</p>
 							</div>
-							<div class="b2-bg-r bg-6">
+							<div class="b2-bg-r bg-6 wow slideInRight animated">
 								
 							</div>
 						</div>
 						<div class="text-center">
-							<button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button>
+							<button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button>
 						</div>
 					</div>
 				</div>
@@ -245,7 +250,8 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b3">
-						<h3 class="standart-h text-center">ВИДЫ ПОТОЛКА</h3>
+						<div class="text-center wow flip"><img src="/img/icons/hand.png" alt=""></div>
+						<h3 class="standart-h text-center ">ВИДЫ ПОТОЛКА</h3>
 						<div class="tab_box">
 							<ul>
 								<li><a href="#tb1" class="active">Тканевые</a></li>
@@ -273,7 +279,7 @@
 										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
 									</ul>
 									
-									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img">
 									
@@ -294,7 +300,7 @@
 										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
 									</ul>
 									
-									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img">
 									
@@ -315,7 +321,7 @@
 										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
 									</ul>
 									
-									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img">
 									
@@ -336,7 +342,7 @@
 										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
 									</ul>
 									
-									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img">
 									
@@ -357,7 +363,7 @@
 										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
 									</ul>
 									
-									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img">
 									
@@ -378,7 +384,7 @@
 										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
 									</ul>
 									
-									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img">
 									
@@ -399,7 +405,7 @@
 										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
 									</ul>
 									
-									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img">
 									
@@ -420,7 +426,7 @@
 										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
 									</ul>
 									
-									<div class="text-right"><p>95 руб. за кв/м</p><button class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img">
 									
@@ -438,6 +444,7 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b4">
+						<div class="text-center wow flip mg-b-30"><img src="/img/icons/colors.png" alt=""></div>
 						<h3 class="standart-h text-center">КАТАЛОГ ЦВЕТОВ</h3>
 						<div class="wrap-slaider">
 							<div class="slaider owl-carousel">
@@ -475,11 +482,12 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b5">
+						<div class="text-center wow flip"><img src="/img/icons/cicle.png" alt=""></div>
 						<h3 class="standart-h text-center">ПОЛНЫЙ ЦИКЛ РАБОТ</h3>
 						<p class="b5-p">* от 1 до 3 дней в зависиомсти от сложности проекта</p>
 						<div class="tab_box2">
 							<ul>
-								<li class="b5-bg-1"><a href="#tab1">1 <div><img src="/img/icons/b5-icon1.png" alt=""></div></a></li>
+								<li><a href="#tab1" class="active">1 <div><img src="/img/icons/b5-icon1.png" alt=""></div></a></li>
 								<li><a href="#tab2">2 <div><img src="/img/icons/b5-icon2.png" alt=""></div></a></li>
 								<li><a href="#tab3">3 <div><img src="/img/icons/b5-icon3.png" alt=""></div></a></li>
 								<li><a href="#tab4">4 <div><img src="/img/icons/b5-icon4.png" alt=""></div></a></li>
@@ -547,29 +555,31 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b7">
+						<div class="text-center wow flip mg-b-30"><img src="/img/icons/finger.png" alt=""></div>
 						<h3 class="standart-h text-center">РЕАЛИЗОВАННЫЕ ПРОЕКТЫ И ВАШИ ОТЗЫВЫ</h3>
 						<div class="wrap-slaider-2">
 							<div class="slaider-2 owl-carousel">
 								<div class="slaid-1">
 									<div class="s-man">
 										<img src="/img/client.jpg" alt="">
-										<p>Анна Николаевна Корниенко</p>
-										<p>Хочу сказать большое спасибо за прекрасную работу. Потолок в комнате дочки  будто настоящий космос!<br> Все сделали очень быстро!!<br> Все было ЧИСТО!<br> Всем рекомендую.</p>
+										<div class="s-man-txt"><p>Анна Николаевна Корниенко</p>
+										<p>Хочу сказать большое спасибо за прекрасную работу. Потолок в комнате дочки  будто настоящий космос!<br> Все сделали очень быстро!!<br> Все было ЧИСТО!<br> Всем рекомендую.</p></div>
 									</div>
 									<div class="s-img">
 										<img src="/img/slaider/img-1.png" alt="">
-										<button class="btn-main">Я ТОЖЕ ТАК ХОЧУ!</button>
+										<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">Я ТОЖЕ ТАК ХОЧУ!</button>
 									</div>
 								</div>
+
 								<div class="slaid-1">
 									<div class="s-man">
 										<img src="/img/client.jpg" alt="">
-										<p>Анна Николаевна Корниенко</p>
-										<p>Хочу сказать большое спасибо за прекрасную работу. Потолок в комнате дочки  будто настоящий космос!<br> Все сделали очень быстро!!<br> Все было ЧИСТО!<br> Всем рекомендую.</p>
+										<div class="s-man-txt"><p>Анна Николаевна Корниенко</p>
+										<p>Хочу сказать большое спасибо за прекрасную работу. Потолок в комнате дочки  будто настоящий космос!<br> Все сделали очень быстро!!<br> Все было ЧИСТО!<br> Всем рекомендую.</p></div>
 									</div>
 									<div class="s-img">
 										<img src="/img/slaider/img-1.png" alt="">
-										<button class="btn-main">Я ТОЖЕ ТАК ХОЧУ!</button>
+										<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">Я ТОЖЕ ТАК ХОЧУ!</button>
 									</div>
 								</div>
 							</div>
@@ -600,7 +610,7 @@
 						<form action="" class="foot-form">
 							<input type="text" name="" class="foot-name" placeholder="Ваше имя">
 							<input type="text" name="" class="foot-phone" placeholder="+7 (___) ___-__-__">
-							<button class="btn-main">ОСТАВИТЬ ЗАЯВКУ НА ЗАМЕР</button>
+							<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ОСТАВИТЬ ЗАЯВКУ НА ЗАМЕР</button>
 						</form>
 					</div>
 					<div class="foot-txt text-center">
@@ -633,7 +643,7 @@
 						<form action="" class="f-calc">
 							<span>5</span>
 							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
-							<button class="btn-main">ПОДРОБНЕЕ</button>
+							<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ПОДРОБНЕЕ</button>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -649,7 +659,7 @@
 									<div><p>Платформа для люстры</p><p>1шт.</p></div>
 								</div>
 								<div class="d-flex justify-content-between">
-									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
 									<div class="range-price">6760 руб.</div>
 								</div>
 							</div>
@@ -662,7 +672,7 @@
 						<form action="" class="f-calc">
 							<span>5</span>
 							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
-							<button class="btn-main">ПОДРОБНЕЕ</button>
+							<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ПОДРОБНЕЕ</button>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -678,7 +688,7 @@
 									<div><p>Платформа для люстры</p><p>1шт.</p></div>
 								</div>
 								<div class="d-flex justify-content-between">
-									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
 									<div class="range-price">6760 руб.</div>
 								</div>
 							</div>
@@ -691,7 +701,7 @@
 						<form action="" class="f-calc">
 							<span>5</span>
 							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
-							<button class="btn-main">ПОДРОБНЕЕ</button>
+							<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ПОДРОБНЕЕ</button>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -707,7 +717,7 @@
 									<div><p>Платформа для люстры</p><p>1шт.</p></div>
 								</div>
 								<div class="d-flex justify-content-between">
-									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
 									<div class="range-price">6760 руб.</div>
 								</div>
 							</div>
@@ -720,7 +730,7 @@
 						<form action="" class="f-calc">
 							<span>5</span>
 							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
-							<button class="btn-main">ПОДРОБНЕЕ</button>
+							<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ПОДРОБНЕЕ</button>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -736,7 +746,7 @@
 									<div><p>Платформа для люстры</p><p>1шт.</p></div>
 								</div>
 								<div class="d-flex justify-content-between">
-									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
 									<div class="range-price">6760 руб.</div>
 								</div>
 							</div>
@@ -749,7 +759,7 @@
 						<form action="" class="f-calc">
 							<span>5</span>
 							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
-							<button class="btn-main">ПОДРОБНЕЕ</button>
+							<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ПОДРОБНЕЕ</button>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -765,7 +775,7 @@
 									<div><p>Платформа для люстры</p><p>1шт.</p></div>
 								</div>
 								<div class="d-flex justify-content-between">
-									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
 									<div class="range-price">6760 руб.</div>
 								</div>
 							</div>
@@ -778,7 +788,7 @@
 						<form action="" class="f-calc">
 							<span>5</span>
 							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
-							<button class="btn-main">ПОДРОБНЕЕ</button>
+							<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ПОДРОБНЕЕ</button>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -794,7 +804,7 @@
 									<div><p>Платформа для люстры</p><p>1шт.</p></div>
 								</div>
 								<div class="d-flex justify-content-between">
-									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
 									<div class="range-price">6760 руб.</div>
 								</div>
 							</div>
@@ -807,7 +817,7 @@
 						<form action="" class="f-calc">
 							<span>5</span>
 							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
-							<button class="btn-main">ПОДРОБНЕЕ</button>
+							<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ПОДРОБНЕЕ</button>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -823,7 +833,7 @@
 									<div><p>Платформа для люстры</p><p>1шт.</p></div>
 								</div>
 								<div class="d-flex justify-content-between">
-									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
 									<div class="range-price">6760 руб.</div>
 								</div>
 							</div>
@@ -836,7 +846,7 @@
 						<form action="" class="f-calc">
 							<span>5</span>
 							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
-							<button class="btn-main">ПОДРОБНЕЕ</button>
+							<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ПОДРОБНЕЕ</button>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -852,22 +862,33 @@
 									<div><p>Платформа для люстры</p><p>1шт.</p></div>
 								</div>
 								<div class="d-flex justify-content-between">
-									<button class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
+									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
 									<div class="range-price">6760 руб.</div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-				
 			</div>
 		</div>
 	</div>
-
+	
+	<div class="card" id="popup">
+		<div class="wrap-popup">
+			<p>Здравствуйте! Пожалуйста, укажите Ваши данные.<br> Менеджер свяжется с Вами в течении 10 минут.</p>
+			<form action="" class="popup-form">
+				<input type="text" class="p-name" name="" placeholder="Ваше имя">
+				<input type="text" class="p-phone" name="" placeholder="+7 (___) ___-__-__">
+				<p>*Выезд специалиста на замеры - бесплатно.</p>
+				<button class="btn-main">ОТПРАВИТЬ</button>
+			</form>
+		</div>
+	</div>	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 	<script src="/js/owl.carousel.min.js"></script>
+	<script src="js/wow.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
 	<script src="/js/main.js"></script>
