@@ -962,3 +962,19 @@ input[type=range]::-ms-thumb {height: 22px; width: 22px;}
     background-color: rgba(0, 0, 0, 0.3);
 }
 
+.wrap-ari {
+  padding: 20px 50px;
+  text-align: center;
+  background-color: #d9eaf5;
+  border-radius: 4px;
+}
+.wrap-ari p {
+  font-size: 16px;
+  font-weight: 500;
+  color: rgb(30, 30, 30);
+}
+.wrap-ari p:first-child{
+  color: rgb(30, 30, 30);
+  font-size: 18px;
+  font-weight: 600;
+}

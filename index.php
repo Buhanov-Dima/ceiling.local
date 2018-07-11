@@ -887,6 +887,13 @@
 		</div>
 	</div>
 	
+	<div class="card" id="arigato">
+		<div class="wrap-ari">
+			<p>Спасибо за Ваше обращение</p>
+			<p>Мы перезвоним вам в течении 10 минут</p>
+		</div>
+	</div>
+
 	<div class="card" id="popup">
 		<div class="wrap-popup">
 			<p>Здравствуйте! Пожалуйста, укажите Ваши данные.<br> Менеджер свяжется с Вами в течении 10 минут.</p>
