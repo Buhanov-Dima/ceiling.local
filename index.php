@@ -446,49 +446,174 @@
 						<div class="wrap-slaider">
 							<div class="slaider owl-carousel">
 								<div>
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/colors/1.jpg" alt="">
+									<img src="/img/colors/2.jpg" alt="">
+									<img src="/img/colors/3.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/colors/4.jpg" alt="">
+									<img src="/img/colors/5.jpg" alt="">
+									<img src="/img/colors/6.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/colors/7.jpg" alt="">
+									<img src="/img/colors/8.jpg" alt="">
+									<img src="/img/colors/9.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/colors/10.jpg" alt="">
+									<img src="/img/colors/11.jpg" alt="">
+									<img src="/img/colors/12.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/colors/13.jpg" alt="">
+									<img src="/img/colors/14.jpg" alt="">
+									<img src="/img/colors/15.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/colors/16.jpg" alt="">
+									<img src="/img/colors/17.jpg" alt="">
+									<img src="/img/colors/18.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/colors/19.jpg" alt="">
+									<img src="/img/colors/20.jpg" alt="">
+									<img src="/img/colors/21.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/colors/22.jpg" alt="">
+									<img src="/img/colors/23.jpg" alt="">
+									<img src="/img/colors/24.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
-									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/colors/25.jpg" alt="">
+									<img src="/img/colors/26.jpg" alt="">
+									<img src="/img/colors/27.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/28.jpg" alt="">
+									<img src="/img/colors/29.jpg" alt="">
+									<img src="/img/colors/30.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/31.jpg" alt="">
+									<img src="/img/colors/32.jpg" alt="">
+									<img src="/img/colors/33.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/34.jpg" alt="">
+									<img src="/img/colors/35.jpg" alt="">
+									<img src="/img/colors/36.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/37.jpg" alt="">
+									<img src="/img/colors/38.jpg" alt="">
+									<img src="/img/colors/39.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/40.jpg" alt="">
+									<img src="/img/colors/41.jpg" alt="">
+									<img src="/img/colors/42.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/43.jpg" alt="">
+									<img src="/img/colors/44.jpg" alt="">
+									<img src="/img/colors/45.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/46.jpg" alt="">
+									<img src="/img/colors/47.jpg" alt="">
+									<img src="/img/colors/48.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/49.jpg" alt="">
+									<img src="/img/colors/50.jpg" alt="">
+									<img src="/img/colors/51.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/52.jpg" alt="">
+									<img src="/img/colors/53.jpg" alt="">
+									<img src="/img/colors/54.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/55.jpg" alt="">
+									<img src="/img/colors/56.jpg" alt="">
+									<img src="/img/colors/57.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/58.jpg" alt="">
+									<img src="/img/colors/59.jpg" alt="">
+									<img src="/img/colors/60.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/61.jpg" alt="">
+									<img src="/img/colors/62.jpg" alt="">
+									<img src="/img/colors/63.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/64.jpg" alt="">
+									<img src="/img/colors/65.jpg" alt="">
+									<img src="/img/colors/66.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/67.jpg" alt="">
+									<img src="/img/colors/68.jpg" alt="">
+									<img src="/img/colors/69.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/70.jpg" alt="">
+									<img src="/img/colors/71.jpg" alt="">
+									<img src="/img/colors/72.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/73.jpg" alt="">
+									<img src="/img/colors/74.jpg" alt="">
+									<img src="/img/colors/75.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/76.jpg" alt="">
+									<img src="/img/colors/77.jpg" alt="">
+									<img src="/img/colors/78.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/79.jpg" alt="">
+									<img src="/img/colors/80.jpg" alt="">
+									<img src="/img/colors/81.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/82.jpg" alt="">
+									<img src="/img/colors/83.jpg" alt="">
+									<img src="/img/colors/84.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/85.jpg" alt="">
+									<img src="/img/colors/86.jpg" alt="">
+									<img src="/img/colors/87.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/88.jpg" alt="">
+									<img src="/img/colors/89.jpg" alt="">
+									<img src="/img/colors/90.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/91.jpg" alt="">
+									<img src="/img/colors/92.jpg" alt="">
+									<img src="/img/colors/93.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/94.jpg" alt="">
+									<img src="/img/colors/95.jpg" alt="">
+									<img src="/img/colors/96.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/97.jpg" alt="">
+									<img src="/img/colors/98.jpg" alt="">
+									<img src="/img/colors/99.jpg" alt="">
+								</div>
+								<div>
+									<img src="/img/colors/100.jpg" alt="">
+									<img src="/img/colors/101.jpg" alt="">
+									<img src="/img/colors/102.jpg" alt="">
 								</div>
 
 							</div>
