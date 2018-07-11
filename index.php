@@ -446,49 +446,49 @@
 						<div class="wrap-slaider">
 							<div class="slaider owl-carousel">
 								<div>
-									<img src="/img/icons/1.jpg" alt="">
-									<img src="/img/icons/2.jpg" alt="">
-									<img src="/img/icons/3.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/4.jpg" alt="">
-									<img src="/img/icons/5.jpg" alt="">
-									<img src="/img/icons/6.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/7.jpg" alt="">
-									<img src="/img/icons/8.jpg" alt="">
-									<img src="/img/icons/9.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/10.jpg" alt="">
-									<img src="/img/icons/11.jpg" alt="">
-									<img src="/img/icons/12.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/13.jpg" alt="">
-									<img src="/img/icons/14.jpg" alt="">
-									<img src="/img/icons/15.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/16.jpg" alt="">
-									<img src="/img/icons/17.jpg" alt="">
-									<img src="/img/icons/18.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/19.jpg" alt="">
-									<img src="/img/icons/20.jpg" alt="">
-									<img src="/img/icons/21.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/22.jpg" alt="">
-									<img src="/img/icons/23.jpg" alt="">
-									<img src="/img/icons/24.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
 								</div>
 								<div>
-									<img src="/img/icons/25.jpg" alt="">
-									<img src="/img/icons/26.jpg" alt="">
-									<img src="/img/icons/27.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
+									<img src="/img/icons/pic1.jpg" alt="">
 								</div>
 
 							</div>
