@@ -304,6 +304,34 @@ input {cursor: text;}
     top: 0;
     right: 0;
 }
+.content_img.glanc {
+  background: url(/img/img-gl.jpg) no-repeat center;
+  background-size: cover;
+}
+.content_img.sky {
+ background: url(/img/img-sky.jpg) no-repeat center;
+  background-size: cover; 
+}
+.content_img.satin {
+  background: url(/img/satin4.jpg) no-repeat center;
+  background-size: cover; 
+}
+.content_img.mat-fat {
+  background: url(/img/Matovyj-natyazhnoj-fakturnyj-potolok.jpg) no-repeat center;
+  background-size: cover; 
+}
+.content_img.print {
+  background: url(/img/natyazhnoy-potolok-v-vannoy.jpg) no-repeat center;
+  background-size: cover; 
+}
+.content_img.met {
+  background: url(/img/laq2.jpg) no-repeat center;
+  background-size: cover;
+}
+.content_img.mat {
+  background: url(/img/mat1.jpg) no-repeat center;
+  background-size: cover;
+}
 .content_img::before {
 	content: '';
     position: absolute;

@@ -299,7 +299,7 @@
 									
 									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
-								<div class="content_img">
+								<div class="content_img mat">
 									
 								</div>
 							</div>
@@ -320,7 +320,7 @@
 									
 									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
-								<div class="content_img">
+								<div class="content_img mat-fat">
 									
 								</div>
 							</div>
@@ -341,7 +341,7 @@
 									
 									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
-								<div class="content_img">
+								<div class="content_img satin">
 									
 								</div>
 							</div>
@@ -362,7 +362,7 @@
 									
 									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
-								<div class="content_img">
+								<div class="content_img glanc">
 									
 								</div>
 							</div>
@@ -383,7 +383,7 @@
 									
 									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
-								<div class="content_img">
+								<div class="content_img met">
 									
 								</div>
 							</div>
@@ -404,7 +404,7 @@
 									
 									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
-								<div class="content_img">
+								<div class="content_img sky">
 									
 								</div>
 							</div>
@@ -425,7 +425,7 @@
 									
 									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
-								<div class="content_img">
+								<div class="content_img print">
 									
 								</div>
 							</div>
