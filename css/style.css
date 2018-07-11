@@ -10,7 +10,7 @@ input {cursor: text;}
 	src: url('/fonts/MyriadPro-Regular.ttf');
 }
 
-.invalid_text_field {border: 1px solid red;}
+.invalid_text_field {border: 1px solid red !important;}
 
 .mg-b-30 {margin-bottom: 30px;}
 .pdg-0 {padding: 0;}
