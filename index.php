@@ -911,7 +911,7 @@
 	<script src="/js/owl.carousel.min.js"></script>
 	<script src="/js/wow.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/ 3.3.5/jquery.fancybox.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
 	<script src="/js/main.js"></script>
 </body>
 </html>
