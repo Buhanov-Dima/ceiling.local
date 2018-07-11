@@ -6,3 +6,7 @@
 .white-txt h5, .white-txt p{color: #ffffff;} #b3 span::after {display: none;} .tab_box ul {flex-wrap: wrap; justify-content: space-around;} .tab_box li {margin: 10px 0;}
 .tab_box2 {padding: 0;} .slaid-1 {flex-direction: column;} .s-man {max-width: none; display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; margin-bottom: 10px;} .s-man img {max-width: 200px;}
 .s-man div {width: 70%;}.wrap-slaider-2 {right: 0;} .slaider-2.owl-carousel .owl-nav button.owl-prev {left: 30px; margin-top: 70px;} .slaider-2.owl-carousel .owl-nav button.owl-next {right: 30px; margin-top: 70px;}
+.b2-bg-l, .b2-bg-l.bg-2, .b2-bg-l.bg-3, .b2-bg-l.bg-4, .b2-bg-l.bg-5, .b2-bg-l.bg-6 {max-width: none; width: 100%; background-size: cover; background-position: center;} .b2-bg-l::before {content: ''; position: absolute; left: 0;
+top: 0; width: 100%; height: 100%; background-color: rgba(255, 255, 255, 0.25); transform: rotate(0);} .b2-bg-l.bg-3::before {display: none;} .wrap-b2 div:last-child {margin-top: 40px;}
+.tab_box3 a {font-size: 13px; padding: 15px 5px;} .content-img img{ width: 100%;} .calc-txt p {font-size: 14px;} .wrap-calc-it {align-items: center;}
+.calc-txt {margin-bottom: 15px;}

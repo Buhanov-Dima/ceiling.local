@@ -75,6 +75,13 @@ $(document).ready(function(){
       wow.init();
 
 
+    $(".top-menu a").click(function(e) {
+        e.preventDefault();
+        $(".top-menu a").removeClass('active');
+        $(this).addClass('active');
+})
+
+
 });
 
     $(window).scroll(function(){
