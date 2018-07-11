@@ -742,7 +742,7 @@
 			<div class="row">
 				<div class="col">
 					<div class="wrap-maps">
-						<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A1676cc86101a3a8b1dc260e49b097ed34e76288db0f4c2135db997e96143fed7&amp;width=100%25&amp;height=450&amp;lang=ru_RU&amp;scroll=true"></script>
+						<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A1676cc86101a3a8b1dc260e49b097ed34e76288db0f4c2135db997e96143fed7&amp;width=100%25&amp;height=450&amp;lang=ru_RU&amp;scroll=false"></script>
 					</div>
 				</div>
 			</div>
