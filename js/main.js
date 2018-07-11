@@ -13,6 +13,12 @@ $(document).ready(function(){
                 items:8
             },
             1200:{
+                items:10
+            },
+            1500:{
+                items:12
+            },
+            1900:{
                 items:13
             }
         }  
