@@ -75,15 +75,64 @@ $(document).ready(function(){
       wow.init();
 
 
+    $('form').on('submit', sendEmail);
+
+    function sendEmail (e) {
+        e.preventDefault();
+        var $form = $(this);
+        var hasError = false;
+
+        var $nameInput = $form.find('input[name="name"]');
+        var $phoneInput = $form.find('input[name="phone"]');
+
+        var valPhone = $phoneInput.length > 0 ? $phoneInput.val() : '';
+        var valName = $nameInput.length > 0 ? $nameInput.val() : '';
+
+        if (valPhone == '' || valPhone == "+7 (999) 999-99-99") {
+            $phoneInput.addClass('invalid_text_field');
+            hasError = true;
+        }
+        setTimeout(function(){
+            $form.find('.invalid_text_field').removeClass('invalid_text_field');
+        }, 3000);
+        if (hasError) {
+            return false;
+        }
+        var obj = {
+            name: valName,
+            phone: valPhone,
+        };
+        $.ajax({
+            type: "POST",
+            url: "/mailpost.php",
+            data: obj,
+            contentType: "application/x-www-form-urlencoded;charset=UTF-8",
+            beforeSend: function(){
+            },
+            success: function(html){
+                $.fancybox.close(true);
+                $.fancybox.open({src  : '#popup-modal-2', type : 'inline',});
+                setTimeout(function(){
+                    $.fancybox.close(true);
+                }, 2000);
+                $nameInput.val("");
+                $phoneInput.val("");
+            },
+        });
+    }
+
+
 });
 
+if ($(window).width()>768) {
     $(window).scroll(function(){
-    if ($(window).scrollTop() > 665) {
-        $('.top-menu').addClass('fixed');
-    }
-    else {
-        $('.top-menu').removeClass('fixed');
-    };
-});
+        if ($(window).scrollTop() > $("#b2").offset().top) {
+            $('.top-menu').addClass('fixed');
+        }
+        else {
+            $('.top-menu').removeClass('fixed');
+        };
+    });
+}
 
 
