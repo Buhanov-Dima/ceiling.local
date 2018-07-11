@@ -245,7 +245,7 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b3">
-						<div class="text-center wow flip"><img src="/img/icons/hand.png" alt=""></div>
+						<div class="text-center wow flip" data-wow-offset="400"><img src="/img/icons/hand.png" alt=""></div>
 						<h3 class="standart-h text-center ">ВИДЫ ПОТОЛКА</h3>
 						<div class="tab_box">
 							<ul>
@@ -441,7 +441,7 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b4">
-						<div class="text-center wow flip mg-b-30"><img src="/img/icons/colors.png" alt=""></div>
+						<div class="text-center wow flip mg-b-30" data-wow-offset="400"><img src="/img/icons/colors.png" alt=""></div>
 						<h3 class="standart-h text-center">КАТАЛОГ ЦВЕТОВ</h3>
 						<div class="wrap-slaider">
 							<div class="slaider owl-carousel">
@@ -630,7 +630,7 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b5">
-						<div class="text-center wow flip"><img src="/img/icons/cicle.png" alt=""></div>
+						<div class="text-center wow flip" data-wow-offset="400"><img src="/img/icons/cicle.png" alt=""></div>
 						<h3 class="standart-h text-center">ПОЛНЫЙ ЦИКЛ РАБОТ</h3>
 						<p class="b5-p">* от 1 до 3 дней в зависиомсти от сложности проекта</p>
 						<div class="tab_box2">
@@ -703,7 +703,7 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b7">
-						<div class="text-center wow flip mg-b-30"><img src="/img/icons/finger.png" alt=""></div>
+						<div class="text-center wow flip mg-b-30" data-wow-offset="400"><img src="/img/icons/finger.png" alt=""></div>
 						<h3 class="standart-h text-center">РЕАЛИЗОВАННЫЕ ПРОЕКТЫ И ВАШИ ОТЗЫВЫ</h3>
 						<div class="wrap-slaider-2">
 							<div class="slaider-2 owl-carousel">
