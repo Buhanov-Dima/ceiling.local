@@ -38,6 +38,9 @@ input {cursor: text;}
   position: relative;
   z-index: 20;
 }
+.wrap-b2 div:last-child {
+  margin-bottom: 40px;
+}
 .wrapper__main_b1 {
   height: 665px;
   background: url(/img/slaider/sl-1.jpg);
@@ -136,6 +139,12 @@ input {cursor: text;}
   padding: 15px;
   width: 185px;
   text-align: center;
+  transition: 0.5s;
+}
+.top-menu a:hover {
+  position: relative;
+  z-index: 5;
+  border-bottom: 1px solid rgb(242, 129, 32); 
 }
 .top-menu a.active {
 	position: relative;
@@ -270,7 +279,7 @@ input {cursor: text;}
   color: rgb(32, 32, 32);
   font-weight: bold;
 }
-.content_txt ul {list-style: circle; margin-top: 20px; max-width: 320px;}
+.content_txt ul {list-style: circle; margin-top: 20px; max-width: 320px; min-height: 330px;}
 .content_txt li{
   font-size: 14px;
   font-family: "Myriad Pro";
@@ -517,7 +526,9 @@ input {cursor: text;}
 }
 .s-img {
   max-width: 1170px;
+  max-height: 500px;
   position: relative;
+  overflow: hidden;
 }
 .slaid-1 {
   display: flex;
@@ -532,6 +543,16 @@ input {cursor: text;}
   position: absolute;
   bottom: 0;
   left: 0;
+  z-index: 20;
+}
+.wrap-calc {
+  
+}
+.content-img img{
+  width: 100%;
+}
+.wrap-calc .standart-h {
+  margin: 20px; 
 }
 .s-man-txt p:nth-child(1){
   font-size: 18px;
@@ -912,3 +933,27 @@ input[type=range]::-ms-thumb {height: 22px; width: 22px;}
 .fancybox-slide--html .fancybox-content {
   padding: 0;
 }
+
+.s-img::before {
+    content: '';
+    position: absolute;
+    width: 295px;
+    height: 125%;
+    top: 21px;
+    left: -85px;
+    bottom: -67px;
+    background-color: #ffffff;
+    transform: rotate(-35deg);
+    z-index: 10;
+}
+
+.s-img::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
