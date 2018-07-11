@@ -50,8 +50,8 @@
 							<div class="main-b1 sl-1">
 								<h3 class="standart-h">БЕСПЛАТНАЯ<br><span>КОНСУЛЬТАЦИЯ СПЕЦИАЛИСТА</span></h3>
 								<form action="" class="slaid-form">
-									<input type="text" name="" class="nav-name" placeholder="Ваше имя">
-									<input type="text" name="" class="nav-phone" placeholder="+7 (___) ___-__-__">
+									<input type="text" name="name" class="nav-name" placeholder="Ваше имя">
+									<input type="text" name="phone" class="nav-phone" placeholder="+7 (___) ___-__-__">
 									<button class="btn-main">ОТПРАВИТЬ</button>
 								</form>
 							</div>
@@ -643,7 +643,6 @@
 			</div>
 		</div>
 	</footer>
-	<a data-fancybox data-src="#card" href="javascript:;" class="btn btn-primary">Open demo</a>
 
 	<div class="card" id="card">
 		<div class="wrap-calc">
@@ -892,10 +891,10 @@
 		<div class="wrap-popup">
 			<p>Здравствуйте! Пожалуйста, укажите Ваши данные.<br> Менеджер свяжется с Вами в течении 10 минут.</p>
 			<form action="" class="popup-form">
-				<input type="text" class="p-name" name="" placeholder="Ваше имя">
-				<input type="text" class="p-phone" name="" placeholder="+7 (___) ___-__-__">
+				<input type="text" class="p-name" name="name" placeholder="Ваше имя">
+				<input type="text" class="p-phone" name="phone" placeholder="+7 (___) ___-__-__">
 				<p>*Выезд специалиста на замеры - бесплатно.</p>
-				<button class="btn-main">ОТПРАВИТЬ</button>
+				<button class="btn-main" type="submit">ОТПРАВИТЬ</button>
 			</form>
 		</div>
 	</div>	
@@ -903,9 +902,9 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 	<script src="/js/owl.carousel.min.js"></script>
-	<script src="js/wow.min.js"></script>
+	<script src="/js/wow.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/ 3.3.5/jquery.fancybox.min.js"></script>
 	<script src="/js/main.js"></script>
 </body>
 </html>
