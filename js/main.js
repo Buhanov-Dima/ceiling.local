@@ -75,18 +75,9 @@ $(document).ready(function(){
       wow.init();
 
 
-<<<<<<< HEAD
     $('form').on('submit', sendEmail);
-=======
-    $(".top-menu a").click(function(e) {
-        e.preventDefault();
-        $(".top-menu a").removeClass('active');
-        $(this).addClass('active');
-})
 
 
-});
->>>>>>> 135c7f082d8754bcd4cfdfaf899c000b6e6668e3
 
     function sendEmail (e) {
         e.preventDefault();
