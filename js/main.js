@@ -112,13 +112,14 @@ $(document).ready(function(){
             beforeSend: function(){
             },
             success: function(html){
-                $.fancybox.close(true);
-                $.fancybox.open({src  : '#popup-modal-2', type : 'inline',});
-                setTimeout(function(){
-                    $.fancybox.close(true);
-                }, 2000);
                 $nameInput.val("");
                 $phoneInput.val("");
+                $.fancybox.close(true);
+                $.fancybox.open({src  : '#arigato', type : 'inline',});
+                setTimeout(function(){
+                    $.fancybox.close(true);
+                }, 2500);
+                
             },
         });
     }
