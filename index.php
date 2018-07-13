@@ -276,7 +276,7 @@
 										<li>Идеально подходят для спален и детских</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img">
 									
@@ -297,7 +297,7 @@
 										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img mat">
 									
@@ -318,7 +318,7 @@
 										<li>Плотные и изностойкие</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img mat-fat">
 									
@@ -339,7 +339,7 @@
 										<li>Могут быть установлены в любой комнате с различными температурными условиями</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img satin">
 									
@@ -360,7 +360,7 @@
 										<li>Не рекомендуются к установке в помощениях, где находится множество линчых вещей на высоких поверхностям, т.к. это может создать ощущение захламленности.</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img glanc">
 									
@@ -381,7 +381,7 @@
 										<li>Металлик хорошо впишется в любой интерьер, однако дизайнеры особенно рекомендуют применять его в стиле хай-тек и техно.</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img met">
 									
@@ -402,7 +402,7 @@
 										<li>Подобное дизайн-решение никого не оставит равнодушным. Потолки "Галактика" можно утановить как в спальню и детскую, так и в гостинную.</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img sky">
 									
@@ -423,7 +423,7 @@
 										<li>В нашем каталоге представлено огромное количество готовых решений. Вы также можете создать свое уникальное изображение.</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img print">
 									
@@ -756,9 +756,9 @@
 					<div class="wrap-foo">
 						<h3 class="standart-h">ВЫЕЗД ЗАМЕРЩИКА БЕСПЛАТНО</h3>
 						<form action="" class="foot-form">
-							<input type="text" name="" class="foot-name" placeholder="Ваше имя">
-							<input type="text" name="" class="foot-phone" placeholder="+7 (___) ___-__-__">
-							<button class="btn-main">ОСТАВИТЬ ЗАЯВКУ НА ЗАМЕР</button>
+							<input type="text" name="name" class="foot-name" placeholder="Ваше имя">
+							<input type="text" name="phone" class="foot-phone" placeholder="+7 (___) ___-__-__">
+							<button class="btn-main" type="submit">ОСТАВИТЬ ЗАЯВКУ НА ЗАМЕР</button>
 						</form>
 					</div>
 					<div class="foot-txt text-center">
