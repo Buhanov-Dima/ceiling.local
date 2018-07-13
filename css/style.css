@@ -796,9 +796,9 @@ footer {
 }
 
 .content-img {
-
+overflow: hidden;
 }
-
+.content-img img {max-width: 600px;max-height: 400px;}
 .card {
   max-width: 1170px;
   margin: auto;

@@ -779,9 +779,6 @@
 					<li><a href="#pot3">Матовые фактурные</a></li>
 					<li><a href="#pot4">Сатиновые</a></li>
 					<li><a href="#pot5">Глянцевые</a></li>
-					<li><a href="#pot6">Металлик</a></li>
-					<li><a href="#pot7">Звёздное небо</a></li>
-					<li><a href="#pot8">С фотопечатью</a></li>
 				</ul>
 			</div>
 			<div class="tab_index">
@@ -793,20 +790,20 @@
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
-								<img src="/img/offer_1.jpg" alt="">
+								<img src="/img/ks/1.jpg" alt="">
 							</div>
 							<div class="calc-right">
 								<div class="calc-txt">
 									<h5>Кухня</h5>
-									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p class="wr-txt">8,9 м.кв.</p></div>
-									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
+									<div><p>Тканевое полотно белое(3,5 м) Descor</p><p class="wr-txt">8,9 м.кв.</p></div>
+									<div><p>Профиль ПВХ</p><p>12,5 м.пог.</p></div>
 									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
 									<div><p>Обработка угла</p><p>6 шт.</p></div>
-									<div><p>Платформа для люстры</p><p>1шт.</p></div>
+									<div><p>Стойка для светильника</p><p>14 шт.</p></div>
 								</div>
 								<div class="d-flex justify-content-between">
 									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
-									<div class="range-price">6760 руб.</div>
+									<div class="range-price">14 670 руб.</div>
 								</div>
 							</div>
 						</div>
@@ -821,20 +818,20 @@
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
-								<img src="/img/offer_1.jpg" alt="">
+								<img src="/img/ks/2.jpg" alt="">
 							</div>
 							<div class="calc-right">
 								<div class="calc-txt">
-									<h5>Кухня</h5>
-									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
-									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
-									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
+									<h5>Комната</h5>
+									<div><p>Матовое, сатиновое, глянцевое полотно белое (5 м) МСД</p><p>14,5 м.кв.</p></div>
+									<div><p>Профиль Ал</p><p>17,5 м.пог.</p></div>
+									<div><p>Вставка белая</p><p>16 м.пог.</p></div>
 									<div><p>Обработка угла</p><p>6 шт.</p></div>
-									<div><p>Платформа для люстры</p><p>1шт.</p></div>
+									<div><p>Платформа для люстры</p><p>1 шт.</p></div>
 								</div>
 								<div class="d-flex justify-content-between">
 									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
-									<div class="range-price">6760 руб.</div>
+									<div class="range-price">9 990 руб.</div>
 								</div>
 							</div>
 						</div>
@@ -849,12 +846,12 @@
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
-								<img src="/img/offer_1.jpg" alt="">
+								<img src="/img/ks/3.jpg" alt="">
 							</div>
 							<div class="calc-right">
 								<div class="calc-txt">
 									<h5>Кухня</h5>
-									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
+									<div><p>Матовое фактурное полотно (3,2 м)МСД</p><p>8,9 м.кв.</p></div>
 									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
 									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
 									<div><p>Обработка угла</p><p>6 шт.</p></div>
@@ -862,7 +859,7 @@
 								</div>
 								<div class="d-flex justify-content-between">
 									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
-									<div class="range-price">6760 руб.</div>
+									<div class="range-price">7 740 руб.</div>
 								</div>
 							</div>
 						</div>
@@ -877,12 +874,12 @@
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
-								<img src="/img/offer_1.jpg" alt="">
+								<img src="/img/ks/4.jpg" alt="">
 							</div>
 							<div class="calc-right">
 								<div class="calc-txt">
 									<h5>Кухня</h5>
-									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
+									<div><p>Матовое, сатиновое, глянцевое полотно цветное(3,2 м)МСД</p><p>8,9 м.кв.</p></div>
 									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
 									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
 									<div><p>Обработка угла</p><p>6 шт.</p></div>
@@ -890,7 +887,7 @@
 								</div>
 								<div class="d-flex justify-content-between">
 									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
-									<div class="range-price">6760 руб.</div>
+									<div class="range-price">7 560 руб.</div>
 								</div>
 							</div>
 						</div>
@@ -905,109 +902,27 @@
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
-								<img src="/img/offer_1.jpg" alt="">
+								<img src="/img/ks/5.jpg" alt="">
 							</div>
 							<div class="calc-right">
 								<div class="calc-txt">
-									<h5>Кухня</h5>
-									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
-									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
-									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
+									<h5>Ванная</h5>
+									<div><p>Глянцевое, сатиновое полотно  белое (3,2 м) МСД</p><p>3,8 м.кв.</p></div>
+									<div><p>Профиль Ал</p><p>7,5 м.пог.</p></div>
+									<div><p>Вставка белая</p><p>7 м.пог.</p></div>
 									<div><p>Обработка угла</p><p>6 шт.</p></div>
-									<div><p>Платформа для люстры</p><p>1шт.</p></div>
+									<div><p>Стойка для светильника</p><p>6 шт.</p></div>
+									<div><p>Фотопечать</p><p>1 м.кв.</p></div>
 								</div>
 								<div class="d-flex justify-content-between">
 									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
-									<div class="range-price">6760 руб.</div>
+									<div class="range-price">6 200 руб.</div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 
-				<div class="tab_content3" id="pot6">
-					<div class="content_txt3">
-						<form action="" class="f-calc">
-							<span class="d-now">10</span>
-							<p>м2</p><input type="range" class="l-range-link" name="" value="10" min="5" step="1" max="50"><div class="range-price"><span>4780 - 6110</span> руб.</div>
-						</form>
-						<div class="wrap-calc-it">
-							<div class="content-img">
-								<img src="/img/offer_1.jpg" alt="">
-							</div>
-							<div class="calc-right">
-								<div class="calc-txt">
-									<h5>Кухня</h5>
-									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
-									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
-									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
-									<div><p>Обработка угла</p><p>6 шт.</p></div>
-									<div><p>Платформа для люстры</p><p>1шт.</p></div>
-								</div>
-								<div class="d-flex justify-content-between">
-									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
-									<div class="range-price">6760 руб.</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="tab_content3" id="pot7">
-					<div class="content_txt3">
-						<form action="" class="f-calc">
-							<span class="d-now">10</span>
-							<p>м2</p><input type="range" class="l-range-link" name="" value="10" min="5" step="1" max="50"><div class="range-price"><span>4780 - 6110</span> руб.</div>
-						</form>
-						<div class="wrap-calc-it">
-							<div class="content-img">
-								<img src="/img/offer_1.jpg" alt="">
-							</div>
-							<div class="calc-right">
-								<div class="calc-txt">
-									<h5>Кухня</h5>
-									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
-									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
-									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
-									<div><p>Обработка угла</p><p>6 шт.</p></div>
-									<div><p>Платформа для люстры</p><p>1шт.</p></div>
-								</div>
-								<div class="d-flex justify-content-between">
-									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
-									<div class="range-price">6760 руб.</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="tab_content3" id="pot8">
-					<div class="content_txt3">
-						<form action="" class="f-calc">
-							<span class="d-now">10</span>
-							<p>м2</p><input type="range" class="l-range-link" name="" value="10" min="5" step="1" max="50"><div class="range-price"><span>4780 - 6110</span> руб.</div>
-						</form>
-						<div class="wrap-calc-it">
-							<div class="content-img">
-								<img src="/img/offer_1.jpg" alt="">
-							</div>
-							<div class="calc-right">
-								<div class="calc-txt">
-									<h5>Кухня</h5>
-									<div><p>Матовое, сатиновое, глянцевое полотно белое (3,2 м) МСД</p><p>8,9 м.кв.</p></div>
-									<div><p>Профиль Ал</p><p>12,5 м.пог.</p></div>
-									<div><p>Вставка белая</p><p>12 м.пог.</p></div>
-									<div><p>Обработка угла</p><p>6 шт.</p></div>
-									<div><p>Платформа для люстры</p><p>1шт.</p></div>
-								</div>
-								<div class="d-flex justify-content-between">
-									<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ РАСЧЕТ</button>
-									<div class="range-price">6760 руб.</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
 			</div>
 		</div>
 	</div>
@@ -1038,5 +953,11 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
 	<script src="/js/main.js"></script>
+	<script type="text/javascript">
+	var __cs = __cs || [];
+	__cs.push(["setCsAccount", "hfybTTI16C1kOb6DGFkpzM1H1gXiFmAW"]);
+	</script>
+	<script type="text/javascript" async 
+	src="//app.comagic.ru/static/cs.min.js"></script>
 </body>
 </html>
