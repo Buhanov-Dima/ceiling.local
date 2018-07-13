@@ -44,9 +44,9 @@ input {cursor: text;}
   margin-bottom: 40px;
 }
 .wrapper__main_b1 {
-  height: 665px;
+  height: 600px;
   background: url(/img/slaider/sl-1.jpg);
-  background-size: cover;
+  background-position: bottom center;
 }
 .wrapper__main_b1 .btn-main {margin-top: 50px;}
 .standart-h {
@@ -56,7 +56,6 @@ input {cursor: text;}
   position: relative;
 }
 #b1 {
-	height: 665px;
   overflow: hidden;
 }
 #b1::before {
@@ -355,7 +354,7 @@ input {cursor: text;}
 .slaider.owl-carousel .owl-stage {
 }
 
-.slaider.owl-carousel .owl-nav{
+.slaider.owl-carousel .owl-nav, .slaider-main.owl-carousel .owl-nav{
 	   display: block;
     position: absolute;
     left: 0;
@@ -366,8 +365,8 @@ input {cursor: text;}
     height: 0.5px;
     margin: auto;
 }
-.slaider.owl-carousel .owl-nav button.owl-next span, .slaider.owl-carousel .owl-nav button.owl-prev span {display: none;}
- .slaider.owl-carousel .owl-nav button.owl-prev::before {
+.slaider.owl-carousel .owl-nav button.owl-next span, .slaider.owl-carousel .owl-nav button.owl-prev span, .slaider-main.owl-carousel .owl-nav button.owl-next span, .slaider-main.owl-carousel .owl-nav button.owl-prev span {display: none;}
+ .slaider.owl-carousel .owl-nav button.owl-prev::before,  .slaider-main.owl-carousel .owl-nav button.owl-prev::before {
 	content: '';
 	display: block;
 	position: absolute;
@@ -382,7 +381,7 @@ input {cursor: text;}
 	border-top: none;
 	transform: rotate(45deg);
 }
-.slaider.owl-carousel .owl-nav button.owl-next {
+.slaider.owl-carousel .owl-nav button.owl-next,.slaider-main.owl-carousel .owl-nav button.owl-next {
     width: 100px;
     height: 50px;
     border: 50px solid transparent;
@@ -393,7 +392,7 @@ input {cursor: text;}
     bottom: 0;
     margin: auto;
 }
-.slaider.owl-carousel .owl-nav button.owl-prev {
+.slaider.owl-carousel .owl-nav button.owl-prev,.slaider-main.owl-carousel .owl-nav button.owl-prev {
     width: 100px;
     height: 50px;
     border: 50px solid transparent;
@@ -404,7 +403,7 @@ input {cursor: text;}
     bottom: 0;
     margin: auto;
 }
-.slaider.owl-carousel .owl-nav button.owl-next::before {
+.slaider.owl-carousel .owl-nav button.owl-next::before, .slaider-main.owl-carousel .owl-nav button.owl-next::before {
 	content: '';
 	display: block;
 	position: absolute;
@@ -707,7 +706,7 @@ footer {
   position: relative;
   max-width: 1170px;
   margin: auto;
-  padding-top: 270px;
+  padding-top: 160px;
 }
 .wrapper__main_b1.sr-2 {
   background: url(/img/slaider/sl-7.jpg);
