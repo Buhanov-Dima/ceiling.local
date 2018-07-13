@@ -46,7 +46,7 @@ input {cursor: text;}
 .wrapper__main_b1 {
   height: 600px;
   background: url(/img/slaider/sl-1.jpg);
-  background-position: bottom center;
+  background-position: bottom center !important;
 }
 .wrapper__main_b1 .btn-main {margin-top: 50px;}
 .standart-h {
