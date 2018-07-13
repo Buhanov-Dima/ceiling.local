@@ -81,6 +81,23 @@ $(document).ready(function(){
       wow.init();
 
 
+    $('.l-range-link').on('input', function () {
+        $(this).trigger('change');
+    });
+
+    $('.l-range-link').on('change', function () {
+        var th = $(this).val();
+        $('.l-range-link').val(th);
+        var min = 478;
+        var max = 611;
+        min=min*th;
+        max=max*th;
+        $('.d-now').html(th);
+        $('.range-price span').html(min+" - "+max);
+        $('.range-price span').html(min+" - "+max);
+    });
+
+
     $('form').on('submit', sendEmail);
 
 

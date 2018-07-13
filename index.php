@@ -231,7 +231,7 @@
 							</div>
 						</div>
 						<div class="text-center">
-							<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button>
+							<button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button>
 						</div>
 					</div>
 				</div>
@@ -788,8 +788,8 @@
 				<div class="tab_content3" id="pot1">
 					<div class="content_txt3">
 						<form action="" class="f-calc">
-							<span>5</span>
-							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<span class="d-now">10</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10" min="5" step="1" max="50"><div class="range-price"><span>4780 - 6110</span> руб.</div>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -816,8 +816,8 @@
 				<div class="tab_content3" id="pot2">
 					<div class="content_txt3">
 						<form action="" class="f-calc">
-							<span>5</span>
-							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<span class="d-now">10</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10" min="5" step="1" max="50"><div class="range-price"><span>4780 - 6110</span> руб.</div>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -844,8 +844,8 @@
 				<div class="tab_content3" id="pot3">
 					<div class="content_txt3">
 						<form action="" class="f-calc">
-							<span>5</span>
-							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<span class="d-now">10</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10" min="5" step="1" max="50"><div class="range-price"><span>4780 - 6110</span> руб.</div>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -872,8 +872,8 @@
 				<div class="tab_content3" id="pot4">
 					<div class="content_txt3">
 						<form action="" class="f-calc">
-							<span>5</span>
-							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<span class="d-now">10</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10" min="5" step="1" max="50"><div class="range-price"><span>4780 - 6110</span> руб.</div>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -900,8 +900,8 @@
 				<div class="tab_content3" id="pot5">
 					<div class="content_txt3">
 						<form action="" class="f-calc">
-							<span>5</span>
-							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<span class="d-now">10</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10" min="5" step="1" max="50"><div class="range-price"><span>4780 - 6110</span> руб.</div>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -928,8 +928,8 @@
 				<div class="tab_content3" id="pot6">
 					<div class="content_txt3">
 						<form action="" class="f-calc">
-							<span>5</span>
-							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<span class="d-now">10</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10" min="5" step="1" max="50"><div class="range-price"><span>4780 - 6110</span> руб.</div>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -956,8 +956,8 @@
 				<div class="tab_content3" id="pot7">
 					<div class="content_txt3">
 						<form action="" class="f-calc">
-							<span>5</span>
-							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<span class="d-now">10</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10" min="5" step="1" max="50"><div class="range-price"><span>4780 - 6110</span> руб.</div>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
@@ -984,8 +984,8 @@
 				<div class="tab_content3" id="pot8">
 					<div class="content_txt3">
 						<form action="" class="f-calc">
-							<span>5</span>
-							<p>м2</p><input type="range" class="l-range-link" name="" value="10"><div class="range-price">3000 - 6000 руб.</div>
+							<span class="d-now">10</span>
+							<p>м2</p><input type="range" class="l-range-link" name="" value="10" min="5" step="1" max="50"><div class="range-price"><span>4780 - 6110</span> руб.</div>
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
