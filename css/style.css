@@ -43,11 +43,17 @@ input {cursor: text;}
 .wrap-b2 div:last-child {
   margin-bottom: 40px;
 }
+
 .wrapper__main_b1 {
   height: 600px;
   background: url(/img/slaider/sl-1.jpg);
-  background-position: bottom center !important;
+  background-position: center !important;
+  background-size: cover !important;
 }
+
+@media (max-width: 1400px) { .wrapper__main_b1 {
+  height: 500px;} }
+
 .wrapper__main_b1 .btn-main {margin-top: 50px;}
 .standart-h {
   font-size: 32px;
