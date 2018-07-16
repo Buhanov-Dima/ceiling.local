@@ -33,7 +33,10 @@ $(document).ready(function(){
     $(".slaider-main").owlCarousel({
         loop:true,
         margin: 10,
-        items: 1
+        items: 1,
+        autoplay:true,
+        autoplayTimeout:3500,
+        smartSpeed:700,
     });
 
     $('.tab_box3 a').click(function(e) {
