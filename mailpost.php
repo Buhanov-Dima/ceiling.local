@@ -13,6 +13,8 @@ else
 	$_POST["name"] =  substr(htmlspecialchars(trim($_POST['name'])), 0, 100);
 	$mName = $_POST["name"];
 
+
+	/*
 	$to  = "bludilina_av@mail.ru";
 	$subject = "Новая заявка c Потолков";
 
@@ -43,6 +45,8 @@ else
 	} else {
 		echo 'error-2';
 	}
+	*/
+	
 }
 
 ?>
