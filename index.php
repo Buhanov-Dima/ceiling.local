@@ -255,7 +255,7 @@
 								<li><a href="#tb4">Сатиновые</a></li>
 								<li><a href="#tb5">Глянцевые</a></li>
 								<li><a href="#tb6">Металлик</a></li>
-								<li><a href="#tb7">Звёздное небо</a></li>
+								<li><a href="#tb7">Галактика</a></li>
 								<li><a href="#tb8">С фотопечатью</a></li>
 							</ul>
 						</div>
@@ -275,7 +275,7 @@
 										<li>Возможность использования в не отапливаемых помещениях</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>от 350 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img">
 									
@@ -296,7 +296,7 @@
 										<li>Не рекомендуются для установки на кухне, из-за шероховатой поверхности, с которой сложно удалить жирные пятна и гарь</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>от 95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img mat">
 									
@@ -317,7 +317,7 @@
 										<li>Плотные и изностойкие</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>от 160 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img mat-fat">
 									
@@ -338,7 +338,7 @@
 										<li>Возможность использования в не отапливаемых помещениях</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>от 95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img satin">
 									
@@ -358,7 +358,7 @@
 										<li></li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>от 95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img glanc">
 									
@@ -379,7 +379,7 @@
 										<li>Металлик хорошо впишется в любой интерьер, однако дизайнеры особенно рекомендуют применять его в стиле хай-тек и техно.</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>от 400 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img met">
 									
@@ -388,7 +388,7 @@
 
 							<div class="tab_content" id="tb7">
 								<div class="content_txt">
-									<h5>Звёздное небо</h5>
+									<h5>Галактика</h5>
 									<ul>
 										<li>Имитация звездного неба с помощью блесток</li>
 										<li>Создают невероятную и завораживающую атмосферу в любом помещении</li>
@@ -400,7 +400,7 @@
 										<li>Подобное дизайн-решение никого не оставит равнодушным. Потолки "Галактика" можно утановить как в спальню и детскую, так и в гостинную.</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>от 350 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img sky">
 									
@@ -421,7 +421,7 @@
 										<li>В нашем каталоге представлено огромное количество готовых решений. Вы также можете создать свое уникальное изображение.</li>
 									</ul>
 									
-									<div class="pos-txt text-right"><p>95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
+									<div class="pos-txt text-right"><p>от 1200 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>
 								</div>
 								<div class="content_img print">
 									
