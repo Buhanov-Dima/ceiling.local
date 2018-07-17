@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-	<title>Потолки Studio</title>
+	<title>ПотолкиВсем</title>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -355,7 +355,6 @@
 										<li>Легки и нетребовательны в эксплуатации</li>
 										<li>Устойчивы к высоким температурам</li>
 										<li>Создают атмосферу лоска</li>
-										<li></li>
 									</ul>
 									
 									<div class="pos-txt text-right"><p>от 95 руб. за кв/м</p><button data-fancybox data-src="#card" href="javascript:;" class="btn-main">РАССЧИТАТЬ СТОИМОСТЬ</button></div>

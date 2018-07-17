@@ -35,8 +35,8 @@ $(document).ready(function(){
         margin: 10,
         items: 1,
         autoplay:true,
-        autoplayTimeout:3500,
-        smartSpeed:700,
+        autoplayTimeout:8000,
+        smartSpeed:1000,
     });
 
     $('.tab_box3 a').click(function(e) {
