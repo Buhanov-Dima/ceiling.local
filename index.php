@@ -5,6 +5,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Производство и продажа натяжных потолков в Москве. Для консультации звоните + 7 (495) 021-72-73." />
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<link rel="stylesheet" href="/css/owl-carousel/owl.carousel.min.css">
 	<link rel="stylesheet" href="/css/owl-carousel/owl.theme.default.min.css">
@@ -24,12 +25,14 @@
 	<div class="container-fluid pdg-0">
 		<div class="row">
 			<div class="col">
+				<h1 style="display: none;">ПРОИЗВОДСТВО, ПРОДАЖА И МОНТАЖ НАТЯЖНЫХ ПОТОЛКОВ</h1>
 				<div class="wrap-b1">
 					<div class="wrapper_phone_b1">
 						<div class="wrap-top-menu">
 							<div class="logo">
-								<img src="/img/logo.png" alt="">
+								<img src="/img/logo.png" alt="Потолки">
 								<p>ПРОИЗВОДСТВО, ПРОДАЖА И МОНТАЖ НАТЯЖНЫХ ПОТОЛКОВ</p>
+
 							</div>
 							<div class="phone__callback">
 								<a href="#" class="phone">+ 7 (495) 021-72-73</a>
@@ -107,7 +110,7 @@
 </section>
 <header>
 		<nav class="navbar navbar-expand-lg navbar-light">
-		  <a class="navbar-brand" href="#"><img src="/img/logo.png" alt=""></a>
+		  <a class="navbar-brand" href="#"><img src="/img/logo.png" alt="логотип"></a>
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		    <span class="navbar-toggler-icon"></span>
 		  </button>
@@ -245,7 +248,7 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b3">
-						<div class="text-center wow flip" data-wow-offset="400"><img src="/img/icons/hand.png" alt=""></div>
+						<div class="text-center wow flip" data-wow-offset="400"><img src="/img/icons/hand.png" alt="рука"></div>
 						<h3 class="standart-h text-center ">ВИДЫ ПОТОЛКА</h3>
 						<div class="tab_box">
 							<ul>
@@ -438,179 +441,179 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b4">
-						<div class="text-center wow flip mg-b-30" data-wow-offset="400"><img src="/img/icons/colors.png" alt=""></div>
+						<div class="text-center wow flip mg-b-30" data-wow-offset="400"><img src="/img/icons/colors.png" alt="цвет"></div>
 						<h3 class="standart-h text-center">КАТАЛОГ ЦВЕТОВ</h3>
 						<div class="wrap-slaider">
 							<div class="slaider owl-carousel">
 								<div>
-									<img src="/img/colors/1.jpg" alt="">
-									<img src="/img/colors/2.jpg" alt="">
-									<img src="/img/colors/3.jpg" alt="">
+									<img src="/img/colors/1.jpg" alt="цвет">
+									<img src="/img/colors/2.jpg" alt="цвет">
+									<img src="/img/colors/3.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/4.jpg" alt="">
-									<img src="/img/colors/5.jpg" alt="">
-									<img src="/img/colors/6.jpg" alt="">
+									<img src="/img/colors/4.jpg" alt="цвет">
+									<img src="/img/colors/5.jpg" alt="цвет">
+									<img src="/img/colors/6.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/7.jpg" alt="">
-									<img src="/img/colors/8.jpg" alt="">
-									<img src="/img/colors/9.jpg" alt="">
+									<img src="/img/colors/7.jpg" alt="цвет">
+									<img src="/img/colors/8.jpg" alt="цвет">
+									<img src="/img/colors/9.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/10.jpg" alt="">
-									<img src="/img/colors/11.jpg" alt="">
-									<img src="/img/colors/12.jpg" alt="">
+									<img src="/img/colors/10.jpg" alt="цвет">
+									<img src="/img/colors/11.jpg" alt="цвет">
+									<img src="/img/colors/12.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/13.jpg" alt="">
-									<img src="/img/colors/14.jpg" alt="">
-									<img src="/img/colors/15.jpg" alt="">
+									<img src="/img/colors/13.jpg" alt="цвет">
+									<img src="/img/colors/14.jpg" alt="цвет">
+									<img src="/img/colors/15.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/16.jpg" alt="">
-									<img src="/img/colors/17.jpg" alt="">
-									<img src="/img/colors/18.jpg" alt="">
+									<img src="/img/colors/16.jpg" alt="цвет">
+									<img src="/img/colors/17.jpg" alt="цвет">
+									<img src="/img/colors/18.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/19.jpg" alt="">
-									<img src="/img/colors/20.jpg" alt="">
-									<img src="/img/colors/21.jpg" alt="">
+									<img src="/img/colors/19.jpg" alt="цвет">
+									<img src="/img/colors/20.jpg" alt="цвет">
+									<img src="/img/colors/21.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/22.jpg" alt="">
-									<img src="/img/colors/23.jpg" alt="">
-									<img src="/img/colors/24.jpg" alt="">
+									<img src="/img/colors/22.jpg" alt="цвет">
+									<img src="/img/colors/23.jpg" alt="цвет">
+									<img src="/img/colors/24.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/25.jpg" alt="">
-									<img src="/img/colors/26.jpg" alt="">
-									<img src="/img/colors/27.jpg" alt="">
+									<img src="/img/colors/25.jpg" alt="цвет">
+									<img src="/img/colors/26.jpg" alt="цвет">
+									<img src="/img/colors/27.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/28.jpg" alt="">
-									<img src="/img/colors/29.jpg" alt="">
-									<img src="/img/colors/30.jpg" alt="">
+									<img src="/img/colors/28.jpg" alt="цвет">
+									<img src="/img/colors/29.jpg" alt="цвет">
+									<img src="/img/colors/30.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/31.jpg" alt="">
-									<img src="/img/colors/32.jpg" alt="">
-									<img src="/img/colors/33.jpg" alt="">
+									<img src="/img/colors/31.jpg" alt="цвет">
+									<img src="/img/colors/32.jpg" alt="цвет">
+									<img src="/img/colors/33.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/34.jpg" alt="">
-									<img src="/img/colors/35.jpg" alt="">
-									<img src="/img/colors/36.jpg" alt="">
+									<img src="/img/colors/34.jpg" alt="цвет">
+									<img src="/img/colors/35.jpg" alt="цвет">
+									<img src="/img/colors/36.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/37.jpg" alt="">
-									<img src="/img/colors/38.jpg" alt="">
-									<img src="/img/colors/39.jpg" alt="">
+									<img src="/img/colors/37.jpg" alt="цвет">
+									<img src="/img/colors/38.jpg" alt="цвет">
+									<img src="/img/colors/39.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/40.jpg" alt="">
-									<img src="/img/colors/41.jpg" alt="">
-									<img src="/img/colors/42.jpg" alt="">
+									<img src="/img/colors/40.jpg" alt="цвет">
+									<img src="/img/colors/41.jpg" alt="цвет">
+									<img src="/img/colors/42.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/43.jpg" alt="">
-									<img src="/img/colors/44.jpg" alt="">
-									<img src="/img/colors/45.jpg" alt="">
+									<img src="/img/colors/43.jpg" alt="цвет">
+									<img src="/img/colors/44.jpg" alt="цвет">
+									<img src="/img/colors/45.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/46.jpg" alt="">
-									<img src="/img/colors/47.jpg" alt="">
-									<img src="/img/colors/48.jpg" alt="">
+									<img src="/img/colors/46.jpg" alt="цвет">
+									<img src="/img/colors/47.jpg" alt="цвет">
+									<img src="/img/colors/48.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/49.jpg" alt="">
-									<img src="/img/colors/50.jpg" alt="">
-									<img src="/img/colors/51.jpg" alt="">
+									<img src="/img/colors/49.jpg" alt="цвет">
+									<img src="/img/colors/50.jpg" alt="цвет">
+									<img src="/img/colors/51.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/52.jpg" alt="">
-									<img src="/img/colors/53.jpg" alt="">
-									<img src="/img/colors/54.jpg" alt="">
+									<img src="/img/colors/52.jpg" alt="цвет">
+									<img src="/img/colors/53.jpg" alt="цвет">
+									<img src="/img/colors/54.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/55.jpg" alt="">
-									<img src="/img/colors/56.jpg" alt="">
-									<img src="/img/colors/57.jpg" alt="">
+									<img src="/img/colors/55.jpg" alt="цвет">
+									<img src="/img/colors/56.jpg" alt="цвет">
+									<img src="/img/colors/57.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/58.jpg" alt="">
-									<img src="/img/colors/59.jpg" alt="">
-									<img src="/img/colors/60.jpg" alt="">
+									<img src="/img/colors/58.jpg" alt="цвет">
+									<img src="/img/colors/59.jpg" alt="цвет">
+									<img src="/img/colors/60.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/61.jpg" alt="">
-									<img src="/img/colors/62.jpg" alt="">
-									<img src="/img/colors/63.jpg" alt="">
+									<img src="/img/colors/61.jpg" alt="цвет">
+									<img src="/img/colors/62.jpg" alt="цвет">
+									<img src="/img/colors/63.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/64.jpg" alt="">
-									<img src="/img/colors/65.jpg" alt="">
-									<img src="/img/colors/66.jpg" alt="">
+									<img src="/img/colors/64.jpg" alt="цвет">
+									<img src="/img/colors/65.jpg" alt="цвет">
+									<img src="/img/colors/66.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/67.jpg" alt="">
-									<img src="/img/colors/68.jpg" alt="">
-									<img src="/img/colors/69.jpg" alt="">
+									<img src="/img/colors/67.jpg" alt="цвет">
+									<img src="/img/colors/68.jpg" alt="цвет">
+									<img src="/img/colors/69.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/70.jpg" alt="">
-									<img src="/img/colors/71.jpg" alt="">
-									<img src="/img/colors/72.jpg" alt="">
+									<img src="/img/colors/70.jpg" alt="цвет">
+									<img src="/img/colors/71.jpg" alt="цвет">
+									<img src="/img/colors/72.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/73.jpg" alt="">
-									<img src="/img/colors/74.jpg" alt="">
-									<img src="/img/colors/75.jpg" alt="">
+									<img src="/img/colors/73.jpg" alt="цвет">
+									<img src="/img/colors/74.jpg" alt="цвет">
+									<img src="/img/colors/75.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/76.jpg" alt="">
-									<img src="/img/colors/77.jpg" alt="">
-									<img src="/img/colors/78.jpg" alt="">
+									<img src="/img/colors/76.jpg" alt="цвет">
+									<img src="/img/colors/77.jpg" alt="цвет">
+									<img src="/img/colors/78.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/79.jpg" alt="">
-									<img src="/img/colors/80.jpg" alt="">
-									<img src="/img/colors/81.jpg" alt="">
+									<img src="/img/colors/79.jpg" alt="цвет">
+									<img src="/img/colors/80.jpg" alt="цвет">
+									<img src="/img/colors/81.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/82.jpg" alt="">
-									<img src="/img/colors/83.jpg" alt="">
-									<img src="/img/colors/84.jpg" alt="">
+									<img src="/img/colors/82.jpg" alt="цвет">
+									<img src="/img/colors/83.jpg" alt="цвет">
+									<img src="/img/colors/84.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/85.jpg" alt="">
-									<img src="/img/colors/86.jpg" alt="">
-									<img src="/img/colors/87.jpg" alt="">
+									<img src="/img/colors/85.jpg" alt="цвет">
+									<img src="/img/colors/86.jpg" alt="цвет">
+									<img src="/img/colors/87.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/88.jpg" alt="">
-									<img src="/img/colors/89.jpg" alt="">
-									<img src="/img/colors/90.jpg" alt="">
+									<img src="/img/colors/88.jpg" alt="цвет">
+									<img src="/img/colors/89.jpg" alt="цвет">
+									<img src="/img/colors/90.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/91.jpg" alt="">
-									<img src="/img/colors/92.jpg" alt="">
-									<img src="/img/colors/93.jpg" alt="">
+									<img src="/img/colors/91.jpg" alt="цвет">
+									<img src="/img/colors/92.jpg" alt="цвет">
+									<img src="/img/colors/93.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/94.jpg" alt="">
-									<img src="/img/colors/95.jpg" alt="">
-									<img src="/img/colors/96.jpg" alt="">
+									<img src="/img/colors/94.jpg" alt="цвет">
+									<img src="/img/colors/95.jpg" alt="цвет">
+									<img src="/img/colors/96.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/97.jpg" alt="">
-									<img src="/img/colors/98.jpg" alt="">
-									<img src="/img/colors/99.jpg" alt="">
+									<img src="/img/colors/97.jpg" alt="цвет">
+									<img src="/img/colors/98.jpg" alt="цвет">
+									<img src="/img/colors/99.jpg" alt="цвет">
 								</div>
 								<div>
-									<img src="/img/colors/100.jpg" alt="">
-									<img src="/img/colors/101.jpg" alt="">
-									<img src="/img/colors/102.jpg" alt="">
+									<img src="/img/colors/100.jpg" alt="цвет">
+									<img src="/img/colors/101.jpg" alt="цвет">
+									<img src="/img/colors/102.jpg" alt="цвет">
 								</div>
 
 							</div>
@@ -627,16 +630,16 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b5">
-						<div class="text-center wow flip" data-wow-offset="400"><img src="/img/icons/cicle.png" alt=""></div>
+						<div class="text-center wow flip" data-wow-offset="400"><img src="/img/icons/cicle.png" alt="круг"></div>
 						<h3 class="standart-h text-center">ПОЛНЫЙ ЦИКЛ РАБОТ</h3>
 						<p class="b5-p">* от 1 до 3 дней в зависиомсти от сложности проекта</p>
 						<div class="tab_box2">
 							<ul>
-								<li><a href="#tab1" class="active">1 <div><img src="/img/icons/b5-icon1.png" alt=""></div></a></li>
-								<li><a href="#tab2">2 <div><img src="/img/icons/b5-icon2.png" alt=""></div></a></li>
-								<li><a href="#tab3">3 <div><img src="/img/icons/b5-icon3.png" alt=""></div></a></li>
-								<li><a href="#tab4">4 <div><img src="/img/icons/b5-icon4.png" alt=""></div></a></li>
-								<li><a href="#tab5">5 <div><img src="/img/icons/b5-icon5.png" alt=""></div></a></li>
+								<li><a href="#tab1" class="active">1 <div><img src="/img/icons/b5-icon1.png" alt="иконка"></div></a></li>
+								<li><a href="#tab2">2 <div><img src="/img/icons/b5-icon2.png" alt="иконка"></div></a></li>
+								<li><a href="#tab3">3 <div><img src="/img/icons/b5-icon3.png" alt="иконка"></div></a></li>
+								<li><a href="#tab4">4 <div><img src="/img/icons/b5-icon4.png" alt="иконка"></div></a></li>
+								<li><a href="#tab5">5 <div><img src="/img/icons/b5-icon5.png" alt="иконка"></div></a></li>
 							</ul>
 						</div>
 						<div class="tab_index-2">
@@ -683,7 +686,7 @@
 					<div class="wrap-b6">
 						<h3 class="standart-h text-center">УЖЕ 7 ЛЕТ В РАБОТЕ, ВЕДЬ МЫ ОТВЕЧАЕМ ЗА КАЧЕСТВО!</h3>
 						<div class="dirik">
-							<img src="/img/serg.jpg" alt="">
+							<img src="/img/serg.jpg" alt="Сергей Сергиенко">
 							<div class="dirik-txt">
 								<p>Технический директор</p>
 								<h5>Сергей Васильевич Сергиенко</h5>
@@ -700,30 +703,30 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="wrap-b7">
-						<div class="text-center wow flip mg-b-30" data-wow-offset="400"><img src="/img/icons/finger.png" alt=""></div>
+						<div class="text-center wow flip mg-b-30" data-wow-offset="400"><img src="/img/icons/finger.png" alt="палец"></div>
 						<h3 class="standart-h text-center">РЕАЛИЗОВАННЫЕ ПРОЕКТЫ И ВАШИ ОТЗЫВЫ</h3>
 						<div class="wrap-slaider-2">
 							<div class="slaider-2 owl-carousel">
 								<div class="slaid-1">
 									<div class="s-man">
-										<img src="/img/client.jpg" alt="">
+										<img src="/img/client.jpg" alt="Клиент">
 										<div class="s-man-txt"><p>Анна Николаевна Корниенко</p>
 										<p>Хочу сказать большое спасибо за прекрасную работу. Потолок в комнате дочки  будто настоящий космос!<br> Все сделали очень быстро!!<br> Все было ЧИСТО!<br> Всем рекомендую.</p></div>
 									</div>
 									<div class="s-img">
-										<img src="/img/slaider/s-img-1.jpg" alt="">
+										<img src="/img/slaider/s-img-1.jpg" alt="Кейс">
 										<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">Я ТОЖЕ ТАК ХОЧУ!</button>
 									</div>
 								</div>
 
 								<div class="slaid-1">
 									<div class="s-man">
-										<img src="/img/client.jpg" alt="">
+										<img src="/img/client.jpg" alt="Клиент">
 										<div class="s-man-txt"><p>Анна Николаевна Корниенко</p>
 										<p>Хочу сказать большое спасибо за прекрасную работу. Потолок в комнате дочки  будто настоящий космос!<br> Все сделали очень быстро!!<br> Все было ЧИСТО!<br> Всем рекомендую.</p></div>
 									</div>
 									<div class="s-img">
-										<img src="/img/slaider/s-img-1.jpg" alt="">
+										<img src="/img/slaider/s-img-1.jpg" alt="Кейс">
 										<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">Я ТОЖЕ ТАК ХОЧУ!</button>
 									</div>
 								</div>
@@ -787,7 +790,7 @@
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
-								<img src="/img/ks/1.jpg" alt="">
+								<img src="/img/ks/1.jpg" alt="Тканевые">
 							</div>
 							<div class="calc-right">
 								<div class="calc-txt">
@@ -815,7 +818,7 @@
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
-								<img src="/img/ks/2.jpg" alt="">
+								<img src="/img/ks/2.jpg" alt="Матовые">
 							</div>
 							<div class="calc-right">
 								<div class="calc-txt">
@@ -843,7 +846,7 @@
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
-								<img src="/img/ks/3.jpg" alt="">
+								<img src="/img/ks/3.jpg" alt="Матовые фактурные">
 							</div>
 							<div class="calc-right">
 								<div class="calc-txt">
@@ -871,7 +874,7 @@
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
-								<img src="/img/ks/4.jpg" alt="">
+								<img src="/img/ks/4.jpg" alt="Сатиновые">
 							</div>
 							<div class="calc-right">
 								<div class="calc-txt">
@@ -899,7 +902,7 @@
 						</form>
 						<div class="wrap-calc-it">
 							<div class="content-img">
-								<img src="/img/ks/5.jpg" alt="">
+								<img src="/img/ks/5.jpg" alt="Глянцевые">
 							</div>
 							<div class="calc-right">
 								<div class="calc-txt">

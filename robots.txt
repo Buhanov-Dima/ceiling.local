@@ -1,0 +1,4 @@
+User-Agent: *
+
+Host: xn--b1aghhekiah0af.xn--80adxhks
+Sitemap: http://xn--b1aghhekiah0af.xn--80adxhks/sitemap.xml
