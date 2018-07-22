@@ -2,6 +2,12 @@
 .content_img::before {display: none;}  .content_txt {width: 100%;} .content_txt ul {max-width: none;} .s-man img {max-width: 150px;}
 .foot-txt p {margin-top: 40px;} .uslugi-txt {width: 55%;} .content_img {position: relative; width: 100%; height: 300px; background-size: cover; background-position: center; margin-top: 20px; margin-bottom: 110px;} .tab_content {flex-wrap: wrap;}
 .content_txt {position: static;} .content_txt .pos-txt {position: absolute; bottom: 0; right: 0;} .s-img::before {height: 650px;} .tab_box3 ul {flex-wrap: wrap;} .tab_box3 li {margin: 0 10px;} .tab_box3 a {padding: 3px 5px;}
-.l-range-link {max-width: 280px;} .wrap-calc-it {flex-wrap: wrap;} .calc-txt {margin-top: 10px;}.wrapper__main_b1 {background-position: center !important;
-    background-size: cover !important;height: 500px;
-    background-repeat: no-repeat !important;}
+.l-range-link {max-width: 280px;} .wrap-calc-it {flex-wrap: wrap;} .calc-txt {margin-top: 10px;}.wrapper__main_b1 {background-size: cover !important;height: 400px; background-repeat: no-repeat !important;}
+.main-b1 {padding: 130px 10px 80px;} .main-b1 {padding: 130px 10px 80px;} .main-b1 .standart-h {font-size: 26px;} .wrapper__main_b1.sr-2 span {font-size: 18px;} .slaid-form {margin-top: 17px;} 
+.wrapper__main_b1.sr-4 p {line-height: 1.3;} .wrapper__main_b1 .btn-main {margin-top: 25px;} .wrapper__main_b1.sr-6 .slaid-form {margin-top: 20px;}
+.wrapper__main_b1 {background-position-x: right !important;}
+.wrapper__main_b1.sr-2 {background-position-x: -127px !important;}
+.wrapper__main_b1.sr-3 {background-position-x: right !important;}
+.wrapper__main_b1.sr-4 {background-position: 0 !important;}
+.wrapper__main_b1.sr-5 {background-position: -57px 50px !important;}
+.wrapper__main_b1.sr-7 {background-position: -226px 50px !important;}

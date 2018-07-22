@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Производство и продажа натяжных потолков в Москве. Для консультации звоните + 7 (495) 021-72-73." />
+    <meta name="description" content="Производство и продажа натяжных потолков в Москве. Для консультации звоните + 7 (495) 152-88-99." />
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<link rel="stylesheet" href="/css/owl-carousel/owl.carousel.min.css">
 	<link rel="stylesheet" href="/css/owl-carousel/owl.theme.default.min.css">
@@ -35,7 +35,7 @@
 
 							</div>
 							<div class="phone__callback">
-								<a href="#" class="phone">+ 7 (495) 021-72-73</a>
+								<a href="tel:+ 7(495)1528899" class="phone">+ 7 (495) 152-88-99</a>
 								<button data-fancybox data-src="#popup" href="javascript:;" class="btn-popup">ОБРАТНЫЙ ЗВОНОК</button>
 							</div>
 						</div>
@@ -111,6 +111,7 @@
 <header>
 		<nav class="navbar navbar-expand-lg navbar-light">
 		  <a class="navbar-brand" href="#"><img src="/img/logo.png" alt="логотип"></a>
+		  <a href="tel:+7(495)1528899" class="phone-xl">+7 (495) 152-88-99</a>
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		    <span class="navbar-toggler-icon"></span>
 		  </button>
