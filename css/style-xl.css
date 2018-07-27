@@ -10,3 +10,4 @@
 top: 0; width: 100%; height: 100%; background-color: rgba(255, 255, 255, 0.25); transform: rotate(0);} .b2-bg-l.bg-3::before {display: none;} .wrap-b2 div:last-child {margin-top: 40px;}
 .tab_box3 a {font-size: 13px; padding: 15px 5px;} .content-img img{ width: 100%;} .calc-txt p {font-size: 14px;} .wrap-calc-it {align-items: center;}
 .calc-txt {margin-bottom: 15px;}
+.zakazy {top: auto; bottom: 70px;}

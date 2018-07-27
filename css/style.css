@@ -1030,3 +1030,7 @@ input[type=range]::-ms-thumb {height: 22px; width: 22px;}
   color: #333333;
   font-size: 14px;
 }
+.sr-2 .zakazy {
+  right: auto;
+  left: 70px;
+}
