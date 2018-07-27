@@ -1012,3 +1012,21 @@ input[type=range]::-ms-thumb {height: 22px; width: 22px;}
   font-weight: 600;
 }
 .phone-xl {color: #333333; font-family: 'MyriadPro-Regular'; font-size: 14px;}
+
+.zakazy {
+  border-radius: 50%;
+  background-color: #d9eaf5;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  padding: 5px 0;
+  position: absolute;
+  top: 70px;
+  right: 70px;
+}
+.zakazy p {
+  font-weight: bold;
+  line-height: 1.7;
+  color: #333333;
+  font-size: 14px;
+}

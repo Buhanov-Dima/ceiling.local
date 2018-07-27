@@ -47,6 +47,9 @@
 								<p>при заключении договора в день замера</p>
 								<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
 							</div>
+							<div class="zakazy">
+								<p>Принимаем <br> звонки, заказы <br>и делаем расчеты<br> ежедневно <br>с 7 до 23</p>
+							</div>
 						</div>
 
 						<div class="wrapper__main_b1 sr-2">
@@ -58,6 +61,9 @@
 									<button class="btn-main">ОТПРАВИТЬ</button>
 								</form>
 							</div>
+							<div class="zakazy">
+								<p>Принимаем <br> звонки, заказы <br>и делаем расчеты<br> ежедневно <br>с 7 до 23</p>
+							</div>
 						</div>
 
 						<div class="wrapper__main_b1 sr-3">
@@ -65,6 +71,9 @@
 								<h3 class="standart-h">ПЕНСИОНЕРАМ</h3>
 								<p>СКИДКА 10%</p>
 								<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
+							</div>
+							<div class="zakazy">
+								<p>Принимаем <br> звонки, заказы <br>и делаем расчеты<br> ежедневно <br>с 7 до 23</p>
 							</div>
 						</div>
 
@@ -74,6 +83,9 @@
 								<p>при заказе от 15 кв. м<br>  мы дарим Вам светильники<br>  <span>НА ВСЮ ПЛОЩАДЬ</span><br>из расчета  2 светильника на 5 кв.м.</p>
 								<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">РАССЧИТАТЬ ПРОЕКТ СО СКИДКОЙ</button>
 							</div>
+							<div class="zakazy">
+								<p>Принимаем <br> звонки, заказы <br>и делаем расчеты<br> ежедневно <br>с 7 до 23</p>
+							</div>
 						</div>
 
 						<div class="wrapper__main_b1 sr-5">
@@ -81,6 +93,9 @@
 								<h3 class="standart-h"><b>ПОТОЛКИ В ВАННОЙ И ТУАЛЕТЕ - БЕСПЛАТНО</b></h3>
 								<p>при заказе потолков во всю квартиру</p>
 								<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ ПРОЕКТ</button>
+							</div>
+							<div class="zakazy">
+								<p>Принимаем <br> звонки, заказы <br>и делаем расчеты<br> ежедневно <br>с 7 до 23</p>
 							</div>
 						</div>
 
@@ -93,6 +108,9 @@
 									<button class="btn-main">ОТПРАВИТЬ</button>
 								</form>
 							</div>
+							<div class="zakazy">
+								<p>Принимаем <br> звонки, заказы <br>и делаем расчеты<br> ежедневно <br>с 7 до 23</p>
+							</div>
 						</div>
 
 						<div class="wrapper__main_b1 sr-7">
@@ -100,6 +118,9 @@
 								<h3 class="standart-h"><b>СКИДКА 5%</b></h3>
 								<p>при обращении по рекомендации</p>
 								<button data-fancybox data-src="#popup" href="javascript:;" class="btn-main">ЗАКАЗАТЬ ПРОЕКТ</button>
+							</div>
+							<div class="zakazy">
+								<p>Принимаем <br> звонки, заказы <br>и делаем расчеты<br> ежедневно <br>с 7 до 23</p>
 							</div>
 						</div>
 					</div>
